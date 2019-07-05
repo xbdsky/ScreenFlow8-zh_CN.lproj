@@ -1,0 +1,17 @@
+{
+    "10.title" = "\U901f\U5ea6\Uff1a";
+    "14.title" = "\U65f6\U957f:";
+    "16.title" = "\U6765\U6e90\U65f6\U957f:";
+    "18.title" = "<do not localize>";
+    "19.ibShadowedToolTip" = "\U65f6\U95f4\U7ebf\U4e2d\U526a\U8f91\U7684\U5f53\U524d\U65f6\U957f\U3002";
+    "3.title" = "\U526a\U8f91\U68c0\U67e5";
+    "6.ibShadowedToolTip" = "\U8c03\U6574\U526a\U8f91\U7684\U76f8\U5bf9\U901f\U5ea6\U3002";
+    "64.ibShadowedToolTip" = "\U9501\U5b9a\U4e00\U4e2a\U526a\U8f91\U53ef\U4ee5\U9632\U6b62\U5b83\U5728\U65f6\U95f4\U7ebf\U4e2d\U88ab\U79fb\U52a8\U6216\U5220\U9664\U3002";
+    "65.title" = "\U9501\U5b9a";
+    "69.ibShadowedIsNilPlaceholder" = "\U4e0d\U9002\U7528";
+    "7.ibShadowedToolTip" = "\U8c03\U6574\U526a\U8f91\U7684\U76f8\U5bf9\U901f\U5ea6\U3002";
+    "9.placeholderString" = "0%;0%;-0%";
+    "9.title" = "100%";
+    "EYG-cn-R2P.ibShadowedToolTip" = "\U9501\U5b9a\U4e00\U4e2a\U526a\U8f91\U53ef\U4ee5\U9632\U6b62\U5b83\U5728\U65f6\U95f4\U7ebf\U4e2d\U88ab\U79fb\U52a8\U6216\U5220\U9664\U3002";
+    "lof-u5-6JS.title" = "\U53cd\U5411\U64ad\U653e\U526a\U8f91";
+}

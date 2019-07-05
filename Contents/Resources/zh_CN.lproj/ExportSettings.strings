@@ -1,0 +1,37 @@
+{
+    "2Od-gf-WPC.title" = "\U4fdd\U5b58\U526f\U672c\U5230\U78c1\U76d8";
+    "326.ibShadowedToolTip" = "\U5355\U51fb\U6b64\U5904\U53ef\U5c06\U65f6\U95f4\U7ebf\U5b57\U5e55\U7684\U5b57\U5e55\U8f68\U9053\U6dfb\U52a0\U5230\U5df2\U5b8c\U6210\U7684\U5f71\U7247\U6587\U4ef6\U4e2d\U3002";
+    "329.ibExternalAccessibilityHelp" = "\U7ba1\U7406";
+    "329.ibShadowedToolTip" = "\U7ba1\U7406 & f\U66f4\U591a\U7684\U81ea\U5b9a\U4e49\U7f16\U89e3\U7801\U5668\U9884\U8bbe\U5217\U8868\U3002";
+    "331.ibShadowedToolTip" = "\U53ef\U9009\U5730\U6dfb\U52a0\U4e00\U4e2a\U7ae0\U8282 (\U5feb\U901f\U5bfc\U822a) \U8f68\U9053\U5230\U5b8c\U6210\U7684\U7535\U5f71\U3002\U7ae0\U8282\U8f68\U9053\U53ea\U652f\U6301 QuickTime \U5bfc\U51fa\Uff0c\U5e76\U4e14\U9700\U8981\U6307\U5b9a\U7684\U6807\U8bb0\U51fa\U73b0\U5728\U65f6\U95f4\U7ebf\U4e2d\U3002";
+    "335.ibExternalAccessibilityHelp" = "\U81ea\U5b9a\U4e49";
+    "335.ibShadowedToolTip" = "\U9009\U62e9\U7f16\U89e3\U7801\U5668\U6216\U66f4\U6539\U7f16\U89e3\U7801\U5668\U8bbe\U7f6e\U3002";
+    "338.ibShadowedToolTip" = "\U5982\U679c\U9009\U4e2d\U6b64\U590d\U9009\U6846, \U52a8\U6001\U6a21\U7cca\U5c06\U7528\U4e8e\U8f93\U51fa\U3002 \U8fd9\U5141\U8bb8\U60a8\U5728\U4f7f\U7528\U89c6\U9891\U64cd\U4f5c\U65cb\U8f6c\U6216\U79fb\U52a8\U526a\U8f91\U65f6\U83b7\U5f97\U975e\U5e38\U9ad8\U8d28\U91cf\U7684\U8f93\U51fa\U3002";
+    "341.ibExternalAccessibilityHelp" = "\U5927\U5c0f";
+    "341.ibShadowedToolTip" = "\U60a8\U53ef\U4ee5\U7f29\U653e\U751f\U6210\U7684\U5f71\U7247\U5927\U5c0f\U3002 ScreenFlow \U4f7f\U7528\U975e\U5e38\U9ad8\U8d28\U91cf\U7684\U7f29\U653e\U7b97\U6cd5\U6765\U521b\U5efa\U9ad8\U8d28\U91cf\U7684\U3001\U6a2a\U5411\U6269\U5c55\U7684\U8f93\U51fa\U3002";
+    "344.ibShadowedToolTip" = "\U7528\U4e8e\U5bfc\U51fa\U7684\U9884\U8bbe\U3002 \U60a8\U53ef\U4ee5\U901a\U8fc7\U5355\U51fb \"\U81ea\U5b9a\U4e49\" \U6309\U94ae\U6765\U66f4\U6539\U9884\U8bbe\U3002";
+    "346.title" = "\U9884\U8bbe\Uff1a";
+    "349.title" = "<do not localize>";
+    "353.title" = "\U6bd4\U4f8b\Uff1a";
+    "354.ibExternalAccessibilityHelp" = "\U81ea\U5b9a\U4e49\U7f29\U653e";
+    "354.title" = "\U7f29\U653e\U5230\U81ea\U5b9a\U4e49\U5927\U5c0f";
+    "355.title" = "\Uff08%{value1}@\Uff09";
+    "356.ibShadowedToolTip" = "\U5728\U8f93\U51fa\U8fb9\U7f18\U63d2\U5165\U4e00\U4e2a\U9ed1\U8272\U533a\U57df, \U4ee5\U4fdd\U6301\U5185\U5bb9\U7684\U957f\U5bbd\U6bd4\U3002 \U5982\U679c\U60a8\U8f93\U5165\U7684\U5bbd\U5ea6\U9ad8\U5ea6\U6bd4\U4e0e\U753b\U5e03\U7684\U5bbd\U5ea6\U9ad8\U5ea6\U6bd4\U4e0d\U540c, \U5219\U6b64\U529f\U80fd\U975e\U5e38\U91cd\U8981\U3002";
+    "361.title" = "\U5bbd\U5ea6\Uff1a";
+    "362.title" = "\U9ad8\U5ea6\Uff1a";
+    "365.title" = "\U5bbd\U5e45\U5185\U5bb9";
+    "366.title" = "\U4f7f\U7528\U52a8\U6001\U6a21\U7cca";
+    "367.title" = "\U5927\U5c0f\Uff1a";
+    "368.title" = "H.264 multi-pass video encoding at 200 k/bit per second.  AAC, 44100 (not localized)";
+    "369.title" = "\U81ea\U5b9a\U4e49...";
+    "370.title" = "\U9009\U9879\Uff1a";
+    "371.title" = "100%";
+    "372.title" = "\Uff08\U6b64 GPU \U4e0d\U652f\U6301\Uff09";
+    "373.title" = "\U4ece\U6807\U8bb0\U6dfb\U52a0\U7ae0\U8282\U8f68\U9053";
+    "375.title" = "\U7ba1\U7406...";
+    "376.title" = "\U8c03\U8bd5";
+    "389.title" = "\U6dfb\U52a0\U7ae0\U8282\U8f68\U9053";
+    "452.ibShadowedDisplayPattern" = "\Uff08%{value1}@\Uff09";
+    "sVS-vL-Cuq.title" = "\U4f4d\U7f6e...";
+    "y4l-ml-IFN.title" = "\U5a92\U4f53\U6587\U4ef6\Uff1a";
+}

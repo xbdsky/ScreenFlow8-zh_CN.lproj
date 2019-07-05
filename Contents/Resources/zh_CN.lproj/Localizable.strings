@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key></key>
+	<string></string>
+	<key>
+
+Get started by dragging files from the Finder here or using the + button.</key>
+	<string>
+
+通过从 Finder 中拖动文件到此或使用 + 按钮来开始使用。</string>
+	<key>
+
+Media added to the Global Library can be used in any document.  Get started by dragging files here or using the + button.</key>
+	<string>
+
+您添加到全局库中的任何媒体都可以在任何文档中使用。 拖动文件到此或使用 + 按钮来开始使用。</string>
+	<key>
+
+Search for stock audio, video, and graphics</key>
+	<string>
+
+搜索官方音频，视频，和图形</string>
+	<key>  The error code was %d.</key>
+	<string>错误代码为 %d.</string>
+	<key> (%@ remaining)</key>
+	<string>剩余时间 %@）</string>
+	<key> (%ldGB free)</key>
+	<string> (%ldGB 空闲)</string>
+	<key> (%ldMB free)</key>
+	<string> (%ldMB 空闲)</string>
+	<key> (Media too short)</key>
+	<string>(媒体太短)</string>
+	<key> - %@ remaining</key>
+	<string> - %@ 剩下</string>
+	<key> hour</key>
+	<string> 小时</string>
+	<key> hours</key>
+	<string>小时</string>
+	<key> min</key>
+	<string>分钟</string>
+	<key> mins</key>
+	<string>分钟</string>
+	<key> minute</key>
+	<string> 分钟</string>
+	<key> minutes</key>
+	<string> 分钟</string>
+	<key> sec</key>
+	<string> 秒</string>
+	<key> second</key>
+	<string> 秒</string>
+	<key> seconds</key>
+	<string> 秒</string>
+	<key> secs</key>
+	<string> 秒</string>
+	<key>"%@" already exists.  Do you want to replace it?</key>
+	<string>"%@" 已存在。  你想替换它?</string>
+	<key>"%@" document exported</key>
+	<string>"%@" 文档输出</string>
+	<key>"%@" is not a writable directory.</key>
+	<string>"%@" 不是一个可写目录。</string>
+	<key>"%@" uploaded to %@</key>
+	<string>"%@" 上传到 %@</string>
+	<key>"%@" video size is too large</key>
+	<string>"%@" 视频尺寸太大</string>
+	<key>"(lastPathComponent)" already exists.  Do you want to replace it?.</key>
+	<string>"(lastPathComponent)" 已存在。 是否要替换？</string>
+	<key>"(self.directoryURL.path)" not a writable directory.</key>
+	<string>"(self.directoryURL.path)" 不是可写目录。</string>
+	<key>%@ %@ audio at %.1fkhz</key>
+	<string>%@ %@ 在音频 %.1fkhz</string>
+	<key>%@ %@ audio at %ld kbits/sec</key>
+	<string>%@ %@ 音频 %ld kbits/秒</string>
+	<key>%@ Installed</key>
+	<string>%@ 安装</string>
+	<key>%@ Menu</key>
+	<string>%@菜单</string>
+	<key>%@ Properties</key>
+	<string>%@ 道具</string>
+	<key>%@ [Customized]</key>
+	<string>%@ [定制]</string>
+	<key>%@ effect duration</key>
+	<string>%@ 效果时长</string>
+	<key>%@ fps</key>
+	<string>%@ 帧/秒</string>
+	<key>%@ not set to be recorded by ScreenFlow</key>
+	<string>%@ 未设置使用 ScreenFlow 记录</string>
+	<key>%@ remaining</key>
+	<string>%@ 剩余</string>
+	<key>%@H.264 video encoding at %@ kbits/sec.</key>
+	<string>%@ H.264 视频编码 %@ キロビット／秒</string>
+	<key>%d Markers</key>
+	<string>%d 标记</string>
+	<key>%d x %d - %d%% of original</key>
+	<string>%d x %d - 的原始 %d%%</string>
+	<key>(Unsupported on PowerPC)</key>
+	<string>(不支持 PowerPC)</string>
+	<key>(Unsupported on this GPU)</key>
+	<string>(在此不支持 GPU)</string>
+	<key>+ Action</key>
+	<string>+ 动作</string>
+	<key>1 Marker</key>
+	<string>1 标记</string>
+	<key>1 fps</key>
+	<string>1 帧/秒</string>
+	<key>1080p HD</key>
+	<string>1080p HD</string>
+	<key>15 fps</key>
+	<string>15 帧/秒</string>
+	<key>25 fps</key>
+	<string>25 帧/秒</string>
+	<key>30 fps</key>
+	<string>30 帧/秒</string>
+	<key>3D Pack</key>
+	<string>3D 缩紧</string>
+	<key>3D Shatter</key>
+	<string>3D 粉碎</string>
+	<key>4K</key>
+	<string>4K</string>
+	<key>5 fps</key>
+	<string>5 帧/秒</string>
+	<key>720p HD</key>
+	<string>720p HD</string>
+	<key>&lt;&lt;Close All - unlocalized&gt;&gt;</key>
+	<string>&lt;&lt; 全部关闭 - 未本地化&gt;&gt;</string>
+	<key>A batch export is currently in progress.</key>
+	<string>目前正在进行批量导出。</string>
+	<key>A clip wasn't able to accept the type of action being pasted onto it.  Please make sure you only try pasting the appropriate type of action.</key>
+	<string>剪辑是无法接受的操作类型被粘贴到它。请确保你只尝试粘贴相应的操作类型。</string>
+	<key>A file already exists in the output folder.  Do you want to replace it?</key>
+	<string>文件已经存在输出文件夹。你想替换它?</string>
+	<key>A file from the Stock Media Library is currently being downloaded.  Please wait for the download to complete or delete the downloading clip(s) before quitting.</key>
+	<string>您当前正在从官方媒体库下载文件。 等待下载完成, 或删除正在下载和退出的剪辑。</string>
+	<key>A file or folder with the same name already exists in the folder "%@".  Replacing it will overwrite its current contents.</key>
+	<string>一个文件或文件夹具有相同名称已经存在的文件夹中 "%@".  替换它将覆盖其当前内容。</string>
+	<key>A file or folder with the same name already exists in the folder "(directoryString)".  Replacing it will overwrite its current contents.</key>
+	<string>"(directoryString)" 文件夹中已存在同名的文件或文件夹。 替换它将覆盖当前内容。</string>
+	<key>A file with the same name already exists in the folder "%@".  Replacing it will overwrite its current contents.</key>
+	<string>具有相同名称的文件已存在的文件夹中 "%@".  替换它将覆盖其当前内容。</string>
+	<key>A folder with the same name already exists in the folder %@.  Replacing it will overwrite its current contents.</key>
+	<string>具有相同名称的文件夹已经存在的文件夹中 %@.  替换它将覆盖其当前内容。</string>
+	<key>A publish upload is currently in progress.  Please wait for the publish to complete or cancel the publish before quitting.</key>
+	<string>一个发布上传正在进行中。请等待发布完成或取消退出前发布。</string>
+	<key>A snapback action can only be added when there is at least one action of the type it is snapping back to behind it.</key>
+	<string>当存在被回弹到其背后的类型中的至少一个动作甲折返动作只能添加。</string>
+	<key>A template with the same name already exists.  Replacing it will overwrite its current contents.</key>
+	<string>同名的模板已存在。 如果替换, 则会覆盖当前内容。</string>
+	<key>A value is required.</key>
+	<string>需要一个参数值.</string>
+	<key>AAC audio encoding at %@ kbits/sec.</key>
+	<string>AAC 音频编码 %@ kbits/秒.</string>
+	<key>About %d hours</key>
+	<string>大约 %d 小时</string>
+	<key>About %d minutes</key>
+	<string>大约 %d 分钟</string>
+	<key>About a minute</key>
+	<string>约一分钟</string>
+	<key>About an hour</key>
+	<string>约一小时</string>
+	<key>Action Curve</key>
+	<string>动作曲线</string>
+	<key>Action templates cannot be restored once they have been deleted.</key>
+	<string>一旦他们被删除操作模板无法恢复。</string>
+	<key>Activate</key>
+	<string>触发</string>
+	<key>Activated without ScreenFlow license</key>
+	<string>没有激活 ScreenFlow 许可</string>
+	<key>Activation Limit Exceeded</key>
+	<string>激活超过限制</string>
+	<key>Add %@</key>
+	<string>添加 %@</string>
+	<key>Add %@ Action</key>
+	<string>添入 %@ 动作</string>
+	<key>Add Action</key>
+	<string>添入动作</string>
+	<key>Add Additional Recording</key>
+	<string>添加额外的录音</string>
+	<key>Add Annotations</key>
+	<string>添加批注</string>
+	<key>Add Annotations Clip</key>
+	<string>添加批注夹</string>
+	<key>Add Ending Transition</key>
+	<string>添加结束过渡</string>
+	<key>Add File...</key>
+	<string>添加文件...</string>
+	<key>Add Filter</key>
+	<string>添加筛选器</string>
+	<key>Add Freeze Frame</key>
+	<string>添加冻结帧</string>
+	<key>Add Marker</key>
+	<string>添加标记</string>
+	<key>Add Marker...</key>
+	<string>添加标记...</string>
+	<key>Add Recording...</key>
+	<string>添加录制...</string>
+	<key>Add Starting &amp; Ending Transitions</key>
+	<string>添加启动 &amp; 结束过渡</string>
+	<key>Add Starting Transition</key>
+	<string>添加启动过渡</string>
+	<key>Add Template Action</key>
+	<string>添加模板行动</string>
+	<key>Add Text Box</key>
+	<string>添加文本框</string>
+	<key>Add Transition</key>
+	<string>添加过渡</string>
+	<key>Add media to the timeline at the current scrubber position.</key>
+	<string>将媒体添加到当前刷子位置的时间线上.</string>
+	<key>Add to Global Library</key>
+	<string>添加到全局库</string>
+	<key>Add to Timeline at Scrubber</key>
+	<string>通过刷取添加到时间轴</string>
+	<key>Added When</key>
+	<string>加时</string>
+	<key>Adding an Action to a clip enables you to modify the properties of your video or screen recording over a period of time</key>
+	<string>增加一个动作到剪辑使您能够在一段时间修改您的视频或屏幕录制的属性</string>
+	<key>Advanced</key>
+	<string>高级</string>
+	<key>Agressive</key>
+	<string>积极</string>
+	<key>Alignment Change</key>
+	<string>排列变化</string>
+	<key>All</key>
+	<string>全部</string>
+	<key>All Channels</key>
+	<string>全部通道</string>
+	<key>All Clips</key>
+	<string>所有片段</string>
+	<key>All Clips after current Clip</key>
+	<string>当前片段之后的所有片段</string>
+	<key>All at Once</key>
+	<string>所有在同一时间</string>
+	<key>Alternative Rock</key>
+	<string>另类摇滚</string>
+	<key>Ambience</key>
+	<string>氛围</string>
+	<key>An error occurred (%ld).</key>
+	<string>发生错误 (%ld).</string>
+	<key>An error occurred communicating with the Telestream licensing server.  Please check your Internet connection and try again.</key>
+	<string>与 Telestream 授权服务器通信时发生错误。 请检查您的互联网连接并重试。</string>
+	<key>An error occurred that prevented communication with the unlock server.  Please make sure this machine is connected to the Internet and is allowed to make outgoing connections.
+
+The error message was "%@".</key>
+	<string>发生与解锁服务器防止通信错误。请确保本机连接到互联网，并允许进行传出连接。
+
+该错误信息是 "%@".</string>
+	<key>An export is currently in progress.  Please wait for the export to complete or cancel the export before quitting.</key>
+	<string>输出正在进行中，请等待输出完成或取消输出。</string>
+	<key>Angle:</key>
+	<string>角度:</string>
+	<key>Animated GIF at %@ fps with %@ colors and %@ dithering.  %@</key>
+	<string>gif 动画（%@ fps）具有 %@ 颜色和 %@抖动。 %@</string>
+	<key>Animated PNG at %@ fps. %@ %@</key>
+	<string>PNG 动画（%@ fps）%@ %@</string>
+	<key>Annotation Styles</key>
+	<string>注释样式</string>
+	<key>Annotations</key>
+	<string>注释</string>
+	<key>Annotations Clip</key>
+	<string>注释剪辑</string>
+	<key>Are you sure?  This operation cannot be undone.</key>
+	<string>你确定吗？此操作无法撤销。</string>
+	<key>Audio</key>
+	<string>音频</string>
+	<key>Audio Action</key>
+	<string>音频动作</string>
+	<key>Audio Bitrate</key>
+	<string>音频比特率</string>
+	<key>Audio Channel %d from %@</key>
+	<string>音频通道 %1$d 来自 %2$@</string>
+	<key>Audio Channels</key>
+	<string>音频通道</string>
+	<key>Audio Content Type</key>
+	<string>音频内容类型</string>
+	<key>Audio Filters</key>
+	<string>音频滤镜</string>
+	<key>Audio Genre</key>
+	<string>音频类型</string>
+	<key>Audio Instruments</key>
+	<string>音频设备</string>
+	<key>Audio Mix not Supported</key>
+	<string>不支持音频混合</string>
+	<key>Audio Moods</key>
+	<string>音频情绪</string>
+	<key>Audio Snapback</key>
+	<string>音频快照合并</string>
+	<key>Audio Styles</key>
+	<string>音频样式</string>
+	<key>Audio from</key>
+	<string>从音频</string>
+	<key>Auto Level Change</key>
+	<string>自动电平变化</string>
+	<key>Automatic</key>
+	<string>自动</string>
+	<key>Available Formats</key>
+	<string>可用的格式</string>
+	<key>BPM</key>
+	<string>BPM</string>
+	<key>Backdrop</key>
+	<string>背景</string>
+	<key>Backgrounds</key>
+	<string>背景</string>
+	<key>Bad Request</key>
+	<string>错误请求</string>
+	<key>Bad caption duration.</key>
+	<string>错误的字幕时长。</string>
+	<key>Bad permissions on selected scratch path.</key>
+	<string>选定的暂存路径的权限错误。</string>
+	<key>Bands</key>
+	<string>乐队</string>
+	<key>Bars Swipe</key>
+	<string>滑栏</string>
+	<key>Baseline</key>
+	<string>基线</string>
+	<key>Beauty and Fashion</key>
+	<string>美容与时尚</string>
+	<key>Before a document can be saved as a template, you need to add at least one Template Placeholder clip to the timeline, so ScreenFlow knows how to create a document from the template.
+
+You can add a Template Placeholder clip from the 'Insert' menu.</key>
+	<string>在将文档另存为模板之前, 必须将一个或多个占位符剪辑从模板添加到时间轴。 这允许您告诉屏幕流如何从模板创建文档。
+
+可以在 "插入" 菜单中的模板中添加占位符剪辑。</string>
+	<key>Blues</key>
+	<string>蓝调</string>
+	<key>Blur Size:</key>
+	<string>模糊大小:</string>
+	<key>Bottom</key>
+	<string>下</string>
+	<key>Bottom Left</key>
+	<string>左下</string>
+	<key>Bottom Right</key>
+	<string>右下</string>
+	<key>Bottom-Left</key>
+	<string>左下</string>
+	<key>Bottom-Right</key>
+	<string>右下</string>
+	<key>Bottom:</key>
+	<string>下:</string>
+	<key>Boxes</key>
+	<string>盒子</string>
+	<key>Brass</key>
+	<string>铜管乐器</string>
+	<key>Brightness:</key>
+	<string>明度:</string>
+	<key>Build In Animation</key>
+	<string>构建进入动画</string>
+	<key>Build Out Animation</key>
+	<string>构建离开动画</string>
+	<key>Builings and Landmarks</key>
+	<string>建筑和地标</string>
+	<key>Built-in OS X</key>
+	<string>安装在 OS X</string>
+	<key>Bumpers and Stingers</key>
+	<string>缓冲器与毒刺</string>
+	<key>Business</key>
+	<string>商业</string>
+	<key>Buy</key>
+	<string>交易</string>
+	<key>Buy More...</key>
+	<string>购买更多...</string>
+	<key>Buy Now</key>
+	<string>立即购买</string>
+	<key>Buy ScreenFlow...</key>
+	<string>购买 ScreenFlow...</string>
+	<key>Buy Stock Media Library...</key>
+	<string>官方媒体库购买...</string>
+	<key>By Character</key>
+	<string>按字符</string>
+	<key>By Line</key>
+	<string>按行</string>
+	<key>Calculating Volume Smoothing...</key>
+	<string>计算平滑值...</string>
+	<key>Callout</key>
+	<string>注记</string>
+	<key>Callout Styles</key>
+	<string>注记样式</string>
+	<key>Camera</key>
+	<string>相机</string>
+	<key>Camera &amp; Microphone Recording</key>
+	<string>相机 &amp; 麦克风录音</string>
+	<key>Camera in use</key>
+	<string>相机在使用</string>
+	<key>Camera not found</key>
+	<string>未找到相机</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Cancel &amp; Show Helper in Finder</key>
+	<string>在 Finder 中显示/取消助手</string>
+	<key>Cancel Recording</key>
+	<string>取消录制</string>
+	<key>Cannot Install Computer Audio Driver while recording</key>
+	<string>录制时无法安装计算机音频驱动程序</string>
+	<key>Cannot Uninstall Computer Audio Driver while recording</key>
+	<string>录制时无法卸载计算机音频驱动程序</string>
+	<key>Cannot update the Default Keyboard shortcut set</key>
+	<string>无法更新默认键盘快捷键设置</string>
+	<key>Canot import file with unsupported media format</key>
+	<string>无法以不支持的媒体格式导入文件</string>
+	<key>Canvas</key>
+	<string>画布</string>
+	<key>Canvas Change</key>
+	<string>更改画布</string>
+	<key>Capture Scratch Disk not found</key>
+	<string>未找到捕获临时盘</string>
+	<key>Change Document Setup</key>
+	<string>更改文档设置</string>
+	<key>Channel %d</key>
+	<string>通道 %d</string>
+	<key>Chapter</key>
+	<string>曲目</string>
+	<key>Choose</key>
+	<string>选择</string>
+	<key>Choose...</key>
+	<string>选择...</string>
+	<key>Chroma Key</key>
+	<string>色度键</string>
+	<key>Cinematic</key>
+	<string>diàn yǐng fēng gé</string>
+	<key>Circle - Dark</key>
+	<string>圆形 - 暗</string>
+	<key>Circle - Light</key>
+	<string>圆形 - 亮</string>
+	<key>Circle Wipe</key>
+	<string>圆形擦除</string>
+	<key>Classic Rock</key>
+	<string>经典摇滚</string>
+	<key>Clear All Captions</key>
+	<string>清除所有的字幕</string>
+	<key>Clear Click Sound</key>
+	<string>清除单击声音</string>
+	<key>Clear In &amp; Out Points</key>
+	<string>清除 入&amp;出点</string>
+	<key>Clear In &amp; Out Points...</key>
+	<string>清除 进 &amp; 出 点...</string>
+	<key>Click Up File</key>
+	<string>点击文件</string>
+	<key>Click to change</key>
+	<string>单击可更改</string>
+	<key>Click to select a capture region on this screen</key>
+	<string>单击此处, 选择此屏幕上的捕获区域</string>
+	<key>Clip #%d</key>
+	<string>剪辑 #%d</string>
+	<key>Clip Blob Style Changed</key>
+	<string>剪辑 Blob 样式已更改</string>
+	<key>Clip Name Change</key>
+	<string>剪辑名称更改</string>
+	<key>Clip Replace</key>
+	<string>剪辑替换</string>
+	<key>Clip Time Insert</key>
+	<string>剪辑时间插入</string>
+	<key>Clock Wipe</key>
+	<string>时钟擦除</string>
+	<key>Close</key>
+	<string>关闭</string>
+	<key>Close Gap</key>
+	<string>关闭 Gap</string>
+	<key>Close Gaps</key>
+	<string>封闭间隙</string>
+	<key>Codecs</key>
+	<string>编码器</string>
+	<key>Color Controls</key>
+	<string>色彩控制</string>
+	<key>Color Drop Wipe</key>
+	<string>颜色减弱擦除</string>
+	<key>Color:</key>
+	<string>颜色:</string>
+	<key>Completed Upload</key>
+	<string>完成上传</string>
+	<key>Computer Audio</key>
+	<string>计算机音频</string>
+	<key>Computer audio connection not found</key>
+	<string>找不到计算机的音频连接</string>
+	<key>Configure Recording</key>
+	<string>设置录制</string>
+	<key>Configure Visible Channels</key>
+	<string>置可见通道</string>
+	<key>Configure how the '%@' will be mixed by default for new documents</key>
+	<string>设置默认情况下为新文档混合 "% @" 的方式</string>
+	<key>Configure...</key>
+	<string>设置...</string>
+	<key>Conflicts</key>
+	<string>冲突</string>
+	<key>Content Type</key>
+	<string>内容类型</string>
+	<key>Continue</key>
+	<string>继续</string>
+	<key>Contrast:</key>
+	<string>对比:</string>
+	<key>Converting to a lower frame rate in the timeline can cause edits to be lost as the timeline may not be able to display them correctly at a lower precision.</key>
+	<string>如果在时间线上降低帧速率, 您的编辑可能会丢失。 这是因为低精度可能无法正确显示编辑内容。</string>
+	<key>Copy</key>
+	<string>复制</string>
+	<key>Copy of </key>
+	<string>副本</string>
+	<key>Copying Media:</key>
+	<string>复制媒体::</string>
+	<key>Corner Round:</key>
+	<string>圆角:</string>
+	<key>Corporate</key>
+	<string>公司</string>
+	<key>Could not connect to Stock Media Library</key>
+	<string>无法连接到官方媒体库</string>
+	<key>Could not parse response from Stock Media Library</key>
+	<string>无法解析官方媒体库中的响应</string>
+	<key>Could not preview media because it is either invalid, or not supported.</key>
+	<string>无法预览媒体, 因为它已禁用或不受支持</string>
+	<key>Count must be between 1 and 4.</key>
+	<string>数必须是1和4之间。</string>
+	<key>Countdown has a maximum value of 20 seconds.</key>
+	<string>倒计时设置为20秒的最大值</string>
+	<key>Countdown seconds cannot be less than zero.</key>
+	<string>倒计时秒不能小于零。</string>
+	<key>Country</key>
+	<string>国家与地区</string>
+	<key>Create</key>
+	<string>创建</string>
+	<key>Create New Document</key>
+	<string>创建新文档</string>
+	<key>Create Template Action</key>
+	<string>创建模板动作</string>
+	<key>Create Template Action...</key>
+	<string>创建模板动作...</string>
+	<key>Create set from default</key>
+	<string>从默认值创建一个热键集</string>
+	<key>Creation in Progress...</key>
+	<string>创建中...</string>
+	<key>Crop</key>
+	<string>修剪</string>
+	<key>Cropping</key>
+	<string>修剪中</string>
+	<key>Cropping values cannot be empty</key>
+	<string>修剪值不能为空</string>
+	<key>Cropping values cannot be greater than the horizontal dimension.</key>
+	<string>修剪值不能大于水平维度。</string>
+	<key>Cropping values cannot be greater than the vertical dimension.</key>
+	<string>修剪值不能大于垂直尺寸。</string>
+	<key>Cropping values cannot be less than 0.</key>
+	<string>修剪值不能小于0 。</string>
+	<key>Cross Blur</key>
+	<string>交叉模糊</string>
+	<key>Cross Dissolve</key>
+	<string>交叉溶解</string>
+	<key>Crosshair</key>
+	<string>十字线</string>
+	<key>Cube</key>
+	<string>立方</string>
+	<key>Cube Split</key>
+	<string>立方拆分</string>
+	<key>Cube Twist</key>
+	<string>立方扭曲</string>
+	<key>Cultural</key>
+	<string>文化</string>
+	<key>Current Size</key>
+	<string>当前大小</string>
+	<key>Curve Type</key>
+	<string>变换类型</string>
+	<key>Custom</key>
+	<string>自定义</string>
+	<key>Custom Presets</key>
+	<string>自定义预设</string>
+	<key>Custom UI:</key>
+	<string>自定义 UI:</string>
+	<key>Customized</key>
+	<string>自定义</string>
+	<key>Cut</key>
+	<string>剪切</string>
+	<key>Cut Action</key>
+	<string>剪切动作</string>
+	<key>Cut Clip</key>
+	<string>剪切片段</string>
+	<key>Data rate cannot be greater than 100000.</key>
+	<string>数据速率不能大于 100000.</string>
+	<key>Default</key>
+	<string>默认</string>
+	<key>Default Format</key>
+	<string>默认格式</string>
+	<key>Delete</key>
+	<string>删除</string>
+	<key>Delete All Markers</key>
+	<string>删除所有标记</string>
+	<key>Delete Filter</key>
+	<string>删除筛选器</string>
+	<key>Delete Global Media</key>
+	<string>删除全局媒体</string>
+	<key>Delete Marker</key>
+	<string>删除标记</string>
+	<key>Delete Media</key>
+	<string>删除媒体</string>
+	<key>Delete Media Source</key>
+	<string>删除媒体来源</string>
+	<key>Delete Media Sources</key>
+	<string>删除媒体资源</string>
+	<key>Delete Range</key>
+	<string>删除范围</string>
+	<key>Delete Template</key>
+	<string>删除模板</string>
+	<key>Delete Track</key>
+	<string>删除曲目</string>
+	<key>Delete Unused Media Sources</key>
+	<string>删除未使用的媒体资源</string>
+	<key>Demo Mode</key>
+	<string>演示模式</string>
+	<key>Demo Mode - Deactivated</key>
+	<string>演示模式-已停用</string>
+	<key>Design Elements</key>
+	<string>元素设计</string>
+	<key>Desktop</key>
+	<string>桌面</string>
+	<key>Desktop not found</key>
+	<string>找不到桌面</string>
+	<key>Detach All Audio Channels</key>
+	<string>分离所有音频通道</string>
+	<key>Detach Audio</key>
+	<string>分离音频</string>
+	<key>Dip to Black</key>
+	<string>淡出到黑色</string>
+	<key>Dip to White</key>
+	<string>渐隐为白色</string>
+	<key>Discard</key>
+	<string>丢弃</string>
+	<key>Disk out of space</key>
+	<string>无可用空间</string>
+	<key>Display Size Warning</key>
+	<string>显示大小警告</string>
+	<key>Do you want to delete the template?  This operation cannot be undone.</key>
+	<string>是否要删除模板？ 无法撤消此操作。</string>
+	<key>Document Upgrade Warning.</key>
+	<string>文档更新警告。</string>
+	<key>Documents</key>
+	<string>文稿</string>
+	<key>Does not expire</key>
+	<string>尚未到期</string>
+	<key>Doors</key>
+	<string>门</string>
+	<key>Download &amp; Installation of Audio Component Required.</key>
+	<string>您必须下载并安装音频组件。</string>
+	<key>Download &amp; Upgrade</key>
+	<string>下载和升级</string>
+	<key>Download Flip4Mac</key>
+	<string>下载 Flip4Mac</string>
+	<key>Download Windows Media Components.</key>
+	<string>下载 Windows Media 组件。</string>
+	<key>Download in Progress</key>
+	<string>正在下载</string>
+	<key>Dramatic</key>
+	<string>戏剧</string>
+	<key>Drawing</key>
+	<string>绘图</string>
+	<key>Drop Shadow</key>
+	<string>阴影</string>
+	<key>Due to a limitation of the graphics card, only %ld x %ld can be captured.  Please reduce the resolution of your display to capture at full size.</key>
+	<string>因为根据图形卡的限制，只可以捕获的占%1$ld x %2$ld。要用全尺寸捕获，请降低显示分辨率。</string>
+	<key>Due to an internal error, the recording has unexpectedly terminated.  Please try making your recording again, and if problems persist, contact us for technical support.</key>
+	<string>由于内部错误, 录制意外结束。 请再次尝试录制操作。 如果问题仍然存在, 请联系技术支持。</string>
+	<key>Due to limitations of the primary graphics card, certain functionality in ScreenFlow won't be available.  For example, Callouts aren't supported on this system.
+
+Please see telestream.net for more information about system requirements.</key>
+	<string>由于主图形卡的局限性, ScreenFlow 的某些功能不可用。 例如, 此系统不支持注记。
+
+有关系统要求的详细信息, 请参阅 telestream.net。</string>
+	<key>Due to the removal of QuickTime, some presets have been deprecated and are no longer available.  If you had a lossless workflow, the recommended preset is 'Lossless – ProRes with Alpha'.  Other workflows will now default to 'Web – High' for export.</key>
+	<string>由于删除了 QuickTime, 某些预设已被弃用, 不再可用。 如果您有一个无损工作流, 建议的预设是 "无损-ProRes 与 Alpha"。 其他工作流现在将默认为 "Web-高" 导出。</string>
+	<key>Duplicate</key>
+	<string>副本</string>
+	<key>Duplicate '%@'</key>
+	<string>从 '%@' 复制副本</string>
+	<key>Duplicate named sets</key>
+	<string>重复命名集</string>
+	<key>Duplicate of Default</key>
+	<string>重复默认值</string>
+	<key>Duration</key>
+	<string>时长</string>
+	<key>Duration Change</key>
+	<string>更改时长</string>
+	<key>Duration cannot be less than or equal to zero.</key>
+	<string>时长不能小于或等于零。</string>
+	<key>Duration for new %@:</key>
+	<string>新的时长 %@:</string>
+	<key>Duration for new Video Actions</key>
+	<string>新视频动作的时长</string>
+	<key>Duration is longer than that of the source media.</key>
+	<string>时长超过源媒体时长。</string>
+	<key>Duration:</key>
+	<string>时长:</string>
+	<key>Duration: %@</key>
+	<string>时长: %@</string>
+	<key>Duration: %@
+</key>
+	<string>时长: %@
+</string>
+	<key>Duration: %@
+ 2</key>
+	<string>时长: %@
+</string>
+	<key>Duration: %@
+ 3</key>
+	<string>时长:%@
+</string>
+	<key>During recording ScreenFlow optionally captures all key presses for display in your screencast.
+
+To enable this functionality, you need to grant explicit access to the 'ScreenFlowHelper' in the 'Accessibility' section of Security &amp; Privacy preferences, located in System Preferences.
+
+Drag and drop the 'ScreenFlowHelper' into this section of the preferences to grant permission.</key>
+	<string>在 ScreenFlow 录制过程中, 可选捕获截屏视频中出现的所有 "按键"
+
+要启用此功能, 您必须在 "系统偏好设置" 的 "安全性与隐私" 的 “隐私”标签栏中的 "辅助功能" 部分中找到并勾选 “ScreenFlowHelper" 的控制访问权限的项目。
+
+如果没有此项目，请手动将“ScreenFlowHelper”守护程序拖放到首选项的这个部分并授予权限。</string>
+	<key>Each Keyboard Shortcut set must have a unique name.  Please rename "%@".</key>
+	<string>每个键盘快捷键集名称必须是唯一的。 请重命名"%@" 。</string>
+	<key>Ease In</key>
+	<string>淡入</string>
+	<key>Ease In &amp; Out</key>
+	<string>淡入淡出</string>
+	<key>Ease Out</key>
+	<string>淡出</string>
+	<key>Ease-In</key>
+	<string>淡入</string>
+	<key>Ease-In &amp; Out</key>
+	<string>淡入淡出</string>
+	<key>Ease-In &amp; Out Cubic</key>
+	<string>立方淡入淡出</string>
+	<key>Ease-In &amp; Out Quart</key>
+	<string>四分之一淡入淡出</string>
+	<key>Ease-In Cubic</key>
+	<string>立方淡入</string>
+	<key>Ease-In Quart</key>
+	<string>四分之一淡入</string>
+	<key>Ease-Out</key>
+	<string>淡出</string>
+	<key>Ease-Out Cubic</key>
+	<string>立方淡出</string>
+	<key>Ease-Out Quart</key>
+	<string>四分之一淡出</string>
+	<key>Easy Listening</key>
+	<string>轻松聆听</string>
+	<key>Edit Nested Clip</key>
+	<string>编辑嵌套剪辑</string>
+	<key>Edit Speech Clip</key>
+	<string>编辑语音剪辑</string>
+	<key>Edit selected template</key>
+	<string>编辑所选模板</string>
+	<key>Edit...</key>
+	<string>编辑...</string>
+	<key>Editing</key>
+	<string>编辑</string>
+	<key>Editing Nested Clips.</key>
+	<string>编辑嵌套剪辑中。</string>
+	<key>Electronic</key>
+	<string>电子</string>
+	<key>Enter Caption Text</key>
+	<string>输入字幕文本</string>
+	<key>Enter Caption Text in %@</key>
+	<string>在 %@ 中输入字幕文本</string>
+	<key>Enter Partial Screen Capture Mode</key>
+	<string>进入局部屏幕捕获模式</string>
+	<key>Enter shortcut...</key>
+	<string>输入快捷键...</string>
+	<key>Epic and Inspiring</key>
+	<string>史诗/灵感</string>
+	<key>Error</key>
+	<string>错误</string>
+	<key>Error Diffusion</key>
+	<string>错误扩散</string>
+	<key>Error locating file</key>
+	<string>定位文件时发生错误</string>
+	<key>Error opening file</key>
+	<string>打开文件时发生错误</string>
+	<key>Estimated File Size:</key>
+	<string>估计文件大小:</string>
+	<key>Exit</key>
+	<string>退出</string>
+	<key>Expand</key>
+	<string>展开</string>
+	<key>Expired %@</key>
+	<string>%@ 已过期</string>
+	<key>Expires %@</key>
+	<string>%@ 到期</string>
+	<key>Exponential Ease-In</key>
+	<string>缓入指数</string>
+	<key>Exponential Ease-In &amp; Out</key>
+	<string>缓入&amp;缓出 指数</string>
+	<key>Exponential Ease-Out</key>
+	<string>缓出指数</string>
+	<key>Export All Templates...</key>
+	<string>导出所有模板...</string>
+	<key>Export Completed</key>
+	<string>导出完成</string>
+	<key>Export Selected Range...</key>
+	<string>导出选定范围...</string>
+	<key>Export Type:</key>
+	<string>导出类型:</string>
+	<key>Export in Progress</key>
+	<string>正在导出</string>
+	<key>Export to File</key>
+	<string>导出到文件</string>
+	<key>Export to SRT...</key>
+	<string>导出到 SRT...</string>
+	<key>Export will occur over the entire project</key>
+	<string>导出整个项目</string>
+	<key>Export...</key>
+	<string>导出...</string>
+	<key>Exporting with a watermark.</key>
+	<string>带水印导出。</string>
+	<key>Exporting:</key>
+	<string>导出中:</string>
+	<key>Extract Audio</key>
+	<string>提取音频</string>
+	<key>Extract Audio Channel</key>
+	<string>提取音频通道</string>
+	<key>Facebook only allows 40 minutes or less of content to be uploaded.  If the upload is rejected, you must reduce the duration of the screencast to 40 minutes in order to publish it to Facebook.</key>
+	<string>Facebook 只允许上传40分钟或更少的内容。 如果上载被拒绝, 您必须将视频的时长缩短为40分钟, 以便将其发布到 Facebook。</string>
+	<key>Failed to download audio preview from Stock Media Library.</key>
+	<string>无法从官方媒体库下载音频预览。</string>
+	<key>Failed to download content from Stock Media Library</key>
+	<string>无法从官方媒体库下载内容</string>
+	<key>Failed to download video preview from Stock Media Library.</key>
+	<string>无法从官方媒体库下载视频预览。</string>
+	<key>Failed to import files</key>
+	<string>导入文件失败</string>
+	<key>Fast User Switch Detected</key>
+	<string>检测到快速用户切换</string>
+	<key>Favorite Transitions</key>
+	<string>收藏的过渡</string>
+	<key>Favorites</key>
+	<string>收藏</string>
+	<key>Fictional</key>
+	<string>小说</string>
+	<key>File</key>
+	<string>文件</string>
+	<key>Fill:</key>
+	<string>填补:</string>
+	<key>Filter Reorder</key>
+	<string>排序筛选器</string>
+	<key>Fire</key>
+	<string>火焰</string>
+	<key>Flip Over</key>
+	<string>翻转</string>
+	<key>Flyover</key>
+	<string>俯瞰</string>
+	<key>Fold</key>
+	<string>折叠</string>
+	<key>Footage</key>
+	<string>影片素材</string>
+	<key>Frame Rate</key>
+	<string>帧速率</string>
+	<key>Frame rate must be between 1 and 60 fps.</key>
+	<string>帧速率必须在 1 到 60 fps 之间。</string>
+	<key>Freeze Frame</key>
+	<string>冻结帧</string>
+	<key>Freeze Frame from %@</key>
+	<string>冻结帧 %@</string>
+	<key>Frequency</key>
+	<string>频率</string>
+	<key>Friction</key>
+	<string>摩擦</string>
+	<key>From Bottom to Top</key>
+	<string>从底部到顶部</string>
+	<key>From Left to Right</key>
+	<string>从左至右</string>
+	<key>From Right to Left</key>
+	<string>从右到左</string>
+	<key>From Top to Bottom</key>
+	<string>自顶到底，从头到尾</string>
+	<key>Funk</key>
+	<string>乡土爵士乐</string>
+	<key>Gain cannot be greater than 300%</key>
+	<string>增益不能大于 300%</string>
+	<key>Gain cannot be less than zero.</key>
+	<string>增益不能小于零.</string>
+	<key>General</key>
+	<string>通用</string>
+	<key>Get Help</key>
+	<string>获取帮助</string>
+	<key>Global Library</key>
+	<string>全局库</string>
+	<key>Global Recording</key>
+	<string>全局录制</string>
+	<key>Go Back</key>
+	<string>返回</string>
+	<key>Go to Support Site</key>
+	<string>转到支持站点</string>
+	<key>Go to end of timeline</key>
+	<string>移动到时间线的末尾</string>
+	<key>Go to end of timeline selection</key>
+	<string>移动到时间线选择的末尾</string>
+	<key>Go to next edit</key>
+	<string>转到下一编辑</string>
+	<key>Go to previous edit</key>
+	<string>转到上一编辑</string>
+	<key>Go to start of timeline</key>
+	<string>移动到时间线的开头</string>
+	<key>Go to start of timeline selection</key>
+	<string>移动到时间线选择的开始位置</string>
+	<key>Gradient Wipe</key>
+	<string>渐变擦除</string>
+	<key>Graphics</key>
+	<string>图形</string>
+	<key>Graphics Category</key>
+	<string>图形类别</string>
+	<key>Graphics Content Type</key>
+	<string>图形内容类型</string>
+	<key>Graphics Orientation</key>
+	<string>图形方向</string>
+	<key>Gravity</key>
+	<string>重力</string>
+	<key>Grid Wipe</key>
+	<string>网格擦除</string>
+	<key>Grid Zoom</key>
+	<string>网格放大</string>
+	<key>Group</key>
+	<string>组</string>
+	<key>Guitar</key>
+	<string>吉他</string>
+	<key>Guitar Instrument</key>
+	<string>吉他 (乐器)</string>
+	<key>H.264 video encoding at %@ kbits/sec.</key>
+	<string>H.264 视频编码 %@ kbits/秒.</string>
+	<key>H264 content over 4096 pixels wide or high may not play back correctly in player application, such as QuickTime Player.</key>
+	<string>H264 编码宽度或高度大于4096像素的内容在播放器应用程序 (如 QuickTime 播放器) 中可能无法正确播放。</string>
+	<key>HD</key>
+	<string>HD</string>
+	<key>HEVC video encoding at %@ kbits/sec.</key>
+	<string>HEVC 视频编码 %@ kbits/秒</string>
+	<key>Happy Upbeat</key>
+	<string>开心乐观</string>
+	<key>Hard Rock and Heavy Metal</key>
+	<string>重摇滚与重金属</string>
+	<key>Hardware Accelerated </key>
+	<string>硬件加速</string>
+	<key>Health and Science</key>
+	<string>健康与科学</string>
+	<key>Heavy</key>
+	<string>强</string>
+	<key>Height:</key>
+	<string>高度:</string>
+	<key>Hello and Welcome to ScreenFlow 2</key>
+	<string>欢迎使用 ScreenFlow 6</string>
+	<key>Hello and Welcome to ScreenFlow 5</key>
+	<string>您好，欢迎使用  ScreenFlow  5</string>
+	<key>Hello and Welcome to ScreenFlow 6</key>
+	<string>您好, 欢迎使用 ScreenFlow 6</string>
+	<key>Hello and Welcome to ScreenFlow 8</key>
+	<string>欢迎使用 ScreenFlow 8</string>
+	<key>Help us improve ScreenFlow by sending anonymous usage data</key>
+	<string>通过发送匿名使用数据帮助我们改进 ScreenFlow</string>
+	<key>Hide Desktop Icons</key>
+	<string>隐藏桌面图标</string>
+	<key>Hide Desktop Items</key>
+	<string>隐藏桌面项目</string>
+	<key>Hide Inspector</key>
+	<string>隐藏检查器</string>
+	<key>Hide Quick Media Library</key>
+	<string>隐藏快捷媒体库</string>
+	<key>Hide Recording Monitor</key>
+	<string>隐藏录制监视器</string>
+	<key>Hide Timeline</key>
+	<string>隐藏时间线</string>
+	<key>High</key>
+	<string>高</string>
+	<key>High resolution H264 encoded content may not play back</key>
+	<string>高分辨率的 H264-编码内容可能无法播放</string>
+	<key>Highest</key>
+	<string>最高</string>
+	<key>Highest Rated</key>
+	<string>最高限制</string>
+	<key>Hip-Hop</key>
+	<string>嘻哈</string>
+	<key>Holidary</key>
+	<string>假期</string>
+	<key>Holiday and Celebrations</key>
+	<string>节日与庆典</string>
+	<key>Horror</key>
+	<string>恐怖</string>
+	<key>Hotspot</key>
+	<string>热点</string>
+	<key>If you wish to edit the keyboard shortcuts, a copy must be made first.</key>
+	<string>如果要编辑键盘快捷键, 则需要先进行复制。</string>
+	<key>Illustrations</key>
+	<string>插图</string>
+	<key>Image</key>
+	<string>图像</string>
+	<key>Image Color</key>
+	<string>图像颜色</string>
+	<key>Image Fill</key>
+	<string>图像填充</string>
+	<key>Import File...</key>
+	<string>文件导入...</string>
+	<key>Import Templates...</key>
+	<string>模板导入...</string>
+	<key>Import from SRT...</key>
+	<string>从 SRT 输入...</string>
+	<key>Import...</key>
+	<string>导入...</string>
+	<key>Imported keysets</key>
+	<string>导入键盘快捷键集</string>
+	<key>Inner Cube</key>
+	<string>内立方体</string>
+	<key>Insert Annotation Clip</key>
+	<string>插入注释片段</string>
+	<key>Insert Media</key>
+	<string>插入媒体</string>
+	<key>Insert Text Box</key>
+	<string>插入文本框</string>
+	<key>Insert: %@</key>
+	<string>插入 %@</string>
+	<key>Instagram</key>
+	<string>Instagram</string>
+	<key>Install</key>
+	<string>安装</string>
+	<key>Install Driver</key>
+	<string>安装驱动程序</string>
+	<key>Installing Computer Audio Driver.</key>
+	<string>安装计算机音频驱动程序。</string>
+	<key>Instrumental</key>
+	<string>器乐</string>
+	<key>Invalid License Key.</key>
+	<string>无效的许可证密钥。</string>
+	<key>Invalid duration value</key>
+	<string>无效的时长值</string>
+	<key>Invalid serial number</key>
+	<string>无效的序列号</string>
+	<key>Invalid speed value</key>
+	<string>无效的速度值</string>
+	<key>Invert</key>
+	<string>反转</string>
+	<key>Island</key>
+	<string>岛屿</string>
+	<key>Jaws Wipe</key>
+	<string>狭口擦除</string>
+	<key>Jazz</key>
+	<string>爵士乐</string>
+	<key>Join Mailing List</key>
+	<string>加入邮件列表</string>
+	<key>Jump to Media Search Field</key>
+	<string>转到媒体搜索字段</string>
+	<key>Label</key>
+	<string>标签</string>
+	<key>Landscape</key>
+	<string>风景</string>
+	<key>Language:</key>
+	<string>语言:</string>
+	<key>Lava Wipe</key>
+	<string>熔岩擦除</string>
+	<key>Left</key>
+	<string>左边</string>
+	<key>Left Duration: %@
+Right Duration: %@</key>
+	<string>左时长: %@
+Right Duration: %@</string>
+	<key>Left Duration: %@
+Right Duration: %@ 2</key>
+	<string>左时长: %1$@
+Right Duration: %2$@</string>
+	<key>Left Duration: %@
+Right Duration: %@ 3</key>
+	<string>左时长:%1$@
+右の長さ:%2$@</string>
+	<key>Left:</key>
+	<string>左:</string>
+	<key>LicenseTitleStr0</key>
+	<string> ScreenFlow </string>
+	<key>LicenseTitleStr1</key>
+	<string> ScreenFlow </string>
+	<key>Licenses</key>
+	<string>许可</string>
+	<key>Light</key>
+	<string>亮</string>
+	<key>Linear</key>
+	<string>线性</string>
+	<key>Lock Clip</key>
+	<string>锁定剪辑</string>
+	<key>Lock Clips</key>
+	<string>锁定剪辑</string>
+	<key>Loop Record Hours must be greater than or equal to 0.</key>
+	<string>循环录制小时数必须大于或等于0.</string>
+	<key>Loop Record Hours must be less than 13.</key>
+	<string>循环录制小时数必须小于13.</string>
+	<key>Loop Record Minutes must be greater than 0.</key>
+	<string>循环录制分钟数必须大于0.</string>
+	<key>Loop Record Minutes must be less than 61.</key>
+	<string>循环录制分钟数必须小于61.</string>
+	<key>Loop for %@</key>
+	<string>循环 %@</string>
+	<key>Loop mode off.</key>
+	<string>循环模式关闭。</string>
+	<key>Loop mode on.</key>
+	<string>循环模式开启。</string>
+	<key>Loops</key>
+	<string>循环</string>
+	<key>Lowering framerate may not display all edits</key>
+	<string>如果降低帧速率, 则可能无法显示某些编辑内容</string>
+	<key>Main</key>
+	<string>主要</string>
+	<key>Make Copy</key>
+	<string>制作副本</string>
+	<key>Make Settings Default</key>
+	<string>使设置默认</string>
+	<key>Make Settings Default for new Callouts</key>
+	<string>使设置默认为新注记</string>
+	<key>Make Settings Default for new Text Boxes</key>
+	<string>为新文本框设置默认值</string>
+	<key>Making this modification would push the property value out of bounds.  Please modify the value on the left or right edge of the action instead.</key>
+	<string>进行此修改将使属性值超出范围。请修改操作的左边缘或右边缘的值。</string>
+	<key>Manage...</key>
+	<string>管理...</string>
+	<key>Margin:</key>
+	<string>边缘:</string>
+	<key>Mark In Point</key>
+	<string>标记入点</string>
+	<key>Mark Out Point</key>
+	<string>标记出点</string>
+	<key>Markers</key>
+	<string>标记</string>
+	<key>Markers aren't supported inside nested clips, please add your marker at the top level of your document.</key>
+	<string>不能在嵌套剪辑中使用标记。 在文档的顶层添加标记。</string>
+	<key>Maximum File Size:</key>
+	<string>最大文件大小:</string>
+	<key>Maximum nested clip depth reached.</key>
+	<string>已达到剪辑的最大嵌套深度。</string>
+	<key>Media Catalog</key>
+	<string>媒体目录</string>
+	<key>Media File</key>
+	<string>媒体文件</string>
+	<key>Media Library</key>
+	<string>媒体资源库</string>
+	<key>Media Sources containing clips on the timeline will be deleted.  When you press 'Delete', these will also be deleted.</key>
+	<string>包含时间线上的剪辑的媒体源将被删除。 当您按 "删除", 这些也将被删除。</string>
+	<key>Media Types</key>
+	<string>媒体类型</string>
+	<key>Media could not be previewed</key>
+	<string>无法预览媒体</string>
+	<key>Media in Document</key>
+	<string>文档中的媒体</string>
+	<key>Medium</key>
+	<string>中</string>
+	<key>Melt</key>
+	<string>溶解</string>
+	<key>Microphone not found</key>
+	<string>找不到麦克风</string>
+	<key>Middle</key>
+	<string>中间</string>
+	<key>Missing filename.</key>
+	<string>文件名丢失。</string>
+	<key>Missing value for the canvas</key>
+	<string>画布缺少值</string>
+	<key>Modify panning into stereo output</key>
+	<string>将平移修改为立体输出</string>
+	<key>Most Downloaded</key>
+	<string>多数下载</string>
+	<key>Most Recent</key>
+	<string>最近</string>
+	<key>Most Relevant</key>
+	<string>最重要</string>
+	<key>Motion Backgrounds</key>
+	<string>运动背景</string>
+	<key>Move Marker</key>
+	<string>移动标记</string>
+	<key>Movie</key>
+	<string>电影</string>
+	<key>Multi-pass </key>
+	<string>多通道</string>
+	<key>Multiple Effect Durations</key>
+	<string>多重效果时长</string>
+	<key>Multiple Filters</key>
+	<string>多重滤镜</string>
+	<key>Multiple Selection</key>
+	<string>多重选择</string>
+	<key>Multiple Values</key>
+	<string>多重值</string>
+	<key>Music</key>
+	<string>音乐</string>
+	<key>Must be an even number value.</key>
+	<string>必须为偶数的值。</string>
+	<key>Name</key>
+	<string>名称</string>
+	<key>Narration cannot be started until the current recording has ended.</key>
+	<string>在当前录制完成之前, 无法启动旁白。</string>
+	<key>Nature and Wildlife</key>
+	<string>自然和野生动物</string>
+	<key>Need to record Computer Audio?</key>
+	<string>需要记录电脑音频吗？</string>
+	<key>Nest Clip</key>
+	<string>嵌套剪辑</string>
+	<key>Nest Clips</key>
+	<string>嵌套剪辑</string>
+	<key>Nested Clip</key>
+	<string>嵌套剪辑</string>
+	<key>Nested Duration: %@</key>
+	<string>嵌套时长: %@</string>
+	<key>Nested clips cannot contain markers</key>
+	<string>嵌套剪辑不能包含标记</string>
+	<key>Network Error</key>
+	<string>网络错误</string>
+	<key>New Document</key>
+	<string>新建文稿</string>
+	<key>New Recording</key>
+	<string>新建录制</string>
+	<key>New from Template</key>
+	<string>模板新建</string>
+	<key>Next</key>
+	<string>下一项</string>
+	<key>Next Caption Track</key>
+	<string>下一字幕轨</string>
+	<key>No Audio</key>
+	<string>无音频</string>
+	<key>No Audio Clips for Captions</key>
+	<string>没有用于字幕的音频剪辑</string>
+	<key>No Available Devices</key>
+	<string>无可用设备</string>
+	<key>No Available iOS Devices</key>
+	<string>无可用的 iOS 设备</string>
+	<key>No Effect Duration</key>
+	<string>无效果时长</string>
+	<key>No Markers</key>
+	<string>无标记</string>
+	<key>No Options</key>
+	<string>无选项</string>
+	<key>No Properties</key>
+	<string>无属性</string>
+	<key>No Proxy</key>
+	<string>无代理</string>
+	<key>No Recent Documents</key>
+	<string>无最近文稿</string>
+	<key>No Recording</key>
+	<string>无录制</string>
+	<key>No Results</key>
+	<string>无结果</string>
+	<key>No Sources</key>
+	<string>无来源</string>
+	<key>No Template Placeholder Clips</key>
+	<string>无模板占位符剪辑</string>
+	<key>No Templates</key>
+	<string>无模板</string>
+	<key>No audio clips in the document</key>
+	<string>文档中无音频剪辑</string>
+	<key>No captions in the document</key>
+	<string>文档中无字幕</string>
+	<key>No configurable properties for this transition</key>
+	<string>此过渡无可用的属性</string>
+	<key>No encoding selected</key>
+	<string>未选择编码</string>
+	<key>No inputs were selected to record, please select at least one input to record.</key>
+	<string>未选择记录或记录的输入。 选择至少一个要记录的输入。</string>
+	<key>No selected inputs to record.</key>
+	<string>未选择记录或记录的输入。</string>
+	<key>No transitions in this category</key>
+	<string>此类别中无过渡</string>
+	<key>No write permissions for the scratch disk</key>
+	<string>您没有对暂存盘的写访问权限</string>
+	<key>None</key>
+	<string>无</string>
+	<key>None Available</key>
+	<string>无可用</string>
+	<key>Not suitable for proxy</key>
+	<string>无适合代理</string>
+	<key>Nudge selection backward one second</key>
+	<string>将所选内容向后移动一秒</string>
+	<key>Nudge selection backward single frame</key>
+	<string>将所选内容向后移动一帧</string>
+	<key>Nudge selection forward one second</key>
+	<string>将所选内容向前移动一秒</string>
+	<key>Nudge selection forward single frame</key>
+	<string>将所选内容向前移动一帧</string>
+	<key>OK</key>
+	<string>确认</string>
+	<key>Objects</key>
+	<string>对象</string>
+	<key>Offset:</key>
+	<string>补偿:</string>
+	<key>Ok</key>
+	<string>好</string>
+	<key>Old Key: %@</key>
+	<string>旧值: %@</string>
+	<key>Only (sizeString) remaining on export drive</key>
+	<string>在导出驱动器上仅保留 (sizeString)</string>
+	<key>Opacity must be between 0% and 100%.</key>
+	<string>不透明度必须介于0 ％和100％ 。</string>
+	<key>Opacity:</key>
+	<string>不透明度:</string>
+	<key>Open Existing Document</key>
+	<string>打开现有文稿</string>
+	<key>Operation cannot be undone.</key>
+	<string>操作不能撤消。</string>
+	<key>Orchestra</key>
+	<string>乐团</string>
+	<key>Ordered</key>
+	<string>排序</string>
+	<key>Original Size</key>
+	<string>原始大小</string>
+	<key>Outline cannot be greater than 500</key>
+	<string>轮廓不能大于500</string>
+	<key>Outline cannot be less than zero</key>
+	<string>轮廓不能小于零</string>
+	<key>Paste</key>
+	<string>粘贴</string>
+	<key>Paste Adjustments</key>
+	<string>粘贴调整</string>
+	<key>Paste Properties</key>
+	<string>粘贴属性</string>
+	<key>Pause</key>
+	<string>暂停</string>
+	<key>Pause Recording</key>
+	<string>暂停录制</string>
+	<key>Pause Timeline</key>
+	<string>暂停时间线</string>
+	<key>People</key>
+	<string>人</string>
+	<key>Percussion</key>
+	<string>打击乐</string>
+	<key>Percussion Instrument</key>
+	<string>打击乐（乐器）</string>
+	<key>Photos</key>
+	<string>照片</string>
+	<key>Piano</key>
+	<string>钢琴</string>
+	<key>Placeholder</key>
+	<string>保留区</string>
+	<key>Placeholder clip cannot be placed inside a nested clip.</key>
+	<string>保留区剪辑不能放置在嵌套剪辑内。</string>
+	<key>Placeholder is already present in template and cannot appear more than once</key>
+	<string>因为模板中已存在保留区，不能重复显示,</string>
+	<key>Plane</key>
+	<string>平面</string>
+	<key>Play Caption Track</key>
+	<string>播放标题曲目</string>
+	<key>Play Selected Action</key>
+	<string>播放选择的动作</string>
+	<key>Play Timeline Backwards</key>
+	<string>向后回放时间线</string>
+	<key>Play Timeline Forwards</key>
+	<string>向前回放时间线</string>
+	<key>Play the build effect in the canvas</key>
+	<string>在画布上播放构建的特效</string>
+	<key>Playful and Comedic</key>
+	<string>俏皮/喜剧</string>
+	<key>Playful and Silly</key>
+	<string>俏皮/愚蠢</string>
+	<key>Please check the permissions on the path and try again.</key>
+	<string>请检查路径上的权限，然后重试。</string>
+	<key>Please check there is enough free space on the destination volume.</key>
+	<string>请检查有目标卷上是否有足够的可用空间。</string>
+	<key>Please contact technical support for assistance.</key>
+	<string>请联系技术支持寻求帮助。</string>
+	<key>Please download a fresh version of ScreenFlow from our website.  Please contact technical support if you continue to receive this error.
+
+If you have a 'system optimizer' installed that modifies or attempts to compress applications, please disable this functionality.</key>
+	<string>请从我们的网站下载新版本的 ScreenFlow 的。如果继续收到此错误，请联系技术支持。
+
+如果你有一个 “系统优化 '安装修改或试图压缩应用程序，请禁用此功能。</string>
+	<key>Please download a fresh version of ScreenFlow from our website.  Please contact technical support if you continue to receive this error.
+
+If you have a 'system optimizer' installed that modifies or attempts to compress applications, please disable this functionality. 2</key>
+	<string>请从我们的网站下载新版本的 ScreenFlow。 如果您继续收到此错误, 请与技术支持联系。
+
+如果安装了 "系统优化器", 修改或尝试压缩应用程序, 请禁用此功能。</string>
+	<key>Please download a fresh version of ScreenFlow from our website.  Please contact technical support if you continue to receive this error.
+
+If you have a 'system optimizer' installed that modifies or attempts to compress applications, please disable this functionality. 3</key>
+	<string>请从我们的网站下载最新版本的 ScreenFlow 。 如果您仍然遇到此错误, 请联系技术支持。
+
+如果您安装了可以修改或尝试压缩应用程序的“系统优化器”，请禁用此功能。3.</string>
+	<key>Please make sure the application is configured to use the 'Telestream Audio Capture' device for audio output.  ScreenFlow will not be able to record from %@ without this setup.</key>
+	<string>请确保应用程序配置为使用“Telestream音频捕获”设备进行音频输出。如果没有这个设置，屏幕流将无法从%@记录。</string>
+	<key>Please reinstall the ScreenFlow audio driver through the ScreenFlow Preferences.</key>
+	<string>请通过 ScreenFlow 的偏好设置重新安装 ScreenFlow 音频驱动程序。</string>
+	<key>Please remove the placeholder clip from the selection to create a nested clip.</key>
+	<string>从所选内容中删除预留位剪辑并创建嵌套剪辑。</string>
+	<key>Please select a value between 1 and 4096 for the output value.</key>
+	<string>请选择介于 1 和 4096 之间的输出值。</string>
+	<key>Please select a value between 1 and 8192 for the output value.</key>
+	<string>请选择介于 1 和 8192 之间的输出值.</string>
+	<key>Please stop recording and try again.</key>
+	<string>请停止录制并重试。</string>
+	<key>Please stop the current recording before beginning a new one.  You can end the recording using the %@ hotkey or from the status bar menu item.</key>
+	<string>请在开始新记录之前停止当前录制。 您可以使用 %@ 热键或状态栏菜单项结束录制</string>
+	<key>Please try your export again and if the problem persists contact technical support.</key>
+	<string>请重新尝试导出，如果问题仍然存在联系技术支持。</string>
+	<key>Pointer</key>
+	<string>指针</string>
+	<key>Pop</key>
+	<string>流行</string>
+	<key>Portrait</key>
+	<string>垂直</string>
+	<key>Position</key>
+	<string>位置</string>
+	<key>Position cannot be less than or equal to -20,000 or greater than or equal to 20,000.</key>
+	<string>位置不能小于或等于 -20000 或大于或等于 20,000。</string>
+	<key>Position:</key>
+	<string>位置:</string>
+	<key>Preparing to Record</key>
+	<string>记录准备中</string>
+	<key>Preset Sizes</key>
+	<string>预设大小</string>
+	<key>Press %@ to finish recording</key>
+	<string>按下 %@ 完成录制</string>
+	<key>Preview</key>
+	<string>预览</string>
+	<key>Preview Source...</key>
+	<string>预览源...</string>
+	<key>Preview Volume:</key>
+	<string>预览音量:</string>
+	<key>Previous Caption Track</key>
+	<string>上一个字幕轨</string>
+	<key>Proxy</key>
+	<string>代理</string>
+	<key>Proxy Partially Made</key>
+	<string>已部分创建代理</string>
+	<key>Proxy Ready (%@)</key>
+	<string>代理就绪（%@）</string>
+	<key>Publish</key>
+	<string>发布</string>
+	<key>Publish Completed</key>
+	<string>发布完成</string>
+	<key>Publish Selected Range to</key>
+	<string>在何处发布所选内容</string>
+	<key>Publish in Progress</key>
+	<string>发布进程中</string>
+	<key>Publish to</key>
+	<string>发布到</string>
+	<key>Publish to %@</key>
+	<string>发布到 %@</string>
+	<key>Publish to %@...</key>
+	<string>发布到 %@...</string>
+	<key>Publish to Selected Range</key>
+	<string>在何处发布所选内容</string>
+	<key>Pulse</key>
+	<string>脉冲</string>
+	<key>Punk Rock</key>
+	<string>朋克摇滚</string>
+	<key>Purchase</key>
+	<string>购买</string>
+	<key>Purchase Options</key>
+	<string>购买选项</string>
+	<key>Purchase...</key>
+	<string>购买...</string>
+	<key>Push</key>
+	<string>按</string>
+	<key>Quit</key>
+	<string>退出</string>
+	<key>RGB Split</key>
+	<string>RGB 拆分</string>
+	<key>Radar</key>
+	<string>雷达</string>
+	<key>Radial Wipe</key>
+	<string>径向擦除</string>
+	<key>Raw PCM</key>
+	<string>原始 PCM</string>
+	<key>Recent Documents</key>
+	<string>最近文稿</string>
+	<key>Recent Places</key>
+	<string>最近访问的位置</string>
+	<key>Record</key>
+	<string>录制</string>
+	<key>Record Desktop from your %@</key>
+	<string>从你的桌面记录 %@</string>
+	<key>Record Time: %@</key>
+	<string>录制时间:%@</string>
+	<key>Recording Audio from other applications in ScreenFlow</key>
+	<string>在 ScreenFlow 中录制其他应用程序的音频</string>
+	<key>Recording Complete</key>
+	<string>录制完成</string>
+	<key>Recording Error</key>
+	<string>录制错误</string>
+	<key>Recording currently in progress</key>
+	<string>正在进行中的录制</string>
+	<key>Recording currently in progress.</key>
+	<string>正在进行中的录制。</string>
+	<key>Recording for %@</key>
+	<string>%@の 录制中</string>
+	<key>Recording in %@ loop</key>
+	<string>在 %@ 循环中录制</string>
+	<key>Recording not supported during Fast User Switch.</key>
+	<string>不支持在用户切换期间录制。</string>
+	<key>Recover</key>
+	<string>恢复</string>
+	<key>Recoverable Screencast Detected</key>
+	<string>可恢复检测截屏</string>
+	<key>Recoverable data detected on "%@"</key>
+	<string>可恢复数据的检测 "%@"</string>
+	<key>Refine Key</key>
+	<string>改善值</string>
+	<key>Reflection:</key>
+	<string>倒影:</string>
+	<key>Relaxing</key>
+	<string>舒缓</string>
+	<key>Religious</key>
+	<string>宗教</string>
+	<key>Remove</key>
+	<string>移除</string>
+	<key>Remove All Unused Media</key>
+	<string>移除所有未使用的媒体</string>
+	<key>Remove Ending Transition</key>
+	<string>删除结束过渡</string>
+	<key>Remove Starting &amp; Ending Transitions</key>
+	<string>删除启动 &amp; 结束过渡</string>
+	<key>Remove Starting Transition</key>
+	<string>删除开始过渡</string>
+	<key>Remove Transition</key>
+	<string>删除过渡</string>
+	<key>Remove: %@</key>
+	<string>移除: %@</string>
+	<key>Rename Clip</key>
+	<string>剪辑重命名</string>
+	<key>Replace</key>
+	<string>替换</string>
+	<key>Replace Media</key>
+	<string>替换媒体</string>
+	<key>Reset Scale</key>
+	<string>比例重置</string>
+	<key>Reset Timer</key>
+	<string>重置计时器</string>
+	<key>Reset To Defaults</key>
+	<string>重置为默认</string>
+	<key>Reset canvas</key>
+	<string>重置画布</string>
+	<key>Reset to Defaults</key>
+	<string>重置为默认</string>
+	<key>Resolution</key>
+	<string>分辨率</string>
+	<key>Resolution unsupported.</key>
+	<string>不支持的分辨率。</string>
+	<key>Resume</key>
+	<string>恢复</string>
+	<key>Reverse Clip</key>
+	<string>反向剪辑</string>
+	<key>Reverse Clips</key>
+	<string>反向剪辑</string>
+	<key>Right</key>
+	<string>右边</string>
+	<key>Right:</key>
+	<string>右:</string>
+	<key>Ripple Delete</key>
+	<string>波纹删除</string>
+	<key>Romantic</key>
+	<string>浪漫</string>
+	<key>Rotation value must be between -36000 and 36000.</key>
+	<string>旋转值必须是 -36000 和 36000 之间。</string>
+	<key>Round:</key>
+	<string>圆角:</string>
+	<key>Runtime Error Detected</key>
+	<string>运行时检测到错误</string>
+	<key>SD</key>
+	<string>SD</string>
+	<key>Sad</key>
+	<string>悲伤</string>
+	<key>Saturation:</key>
+	<string>饱和度:</string>
+	<key>Save was cancelled.</key>
+	<string>保存已取消。</string>
+	<key>Saving this document will upgrade it to the latest ScreenFlow document format.  You will not be able to open this document in older versions of ScreenFlow.
+
+If you need compatibility with older versions of ScreenFlow, please save a copy of this document. </key>
+	<string>保存该文件将其升级到最新  ScreenFlow  文稿格式。您将无法在旧版本  ScreenFlow  中打开此文稿。
+
+如果您需要与旧版本  ScreenFlow  的兼容性，请保存此文件的副本。</string>
+	<key>Saving this document will upgrade it to the latest ScreenFlow document format.  You will not be able to open this document in older versions of ScreenFlow.
+
+If you need compatibility with older versions of ScreenFlow, please save a copy of this document.  2</key>
+	<string>保存此文档将会使其升级为最新的 ScreenFlow 文档格式。 您将无法在 ScreenFlow 的旧版本中打开此文档。
+
+如果您需要与旧版本的 ScreenFlow 兼容, 请保存此文档的副本.</string>
+	<key>Saving this document will upgrade it to the latest ScreenFlow document format.  You will not be able to open this document in older versions of ScreenFlow.
+
+If you need compatibility with older versions of ScreenFlow, please save a copy of this document.  3</key>
+	<string>保存此文档时, 此文档将升级为最新的 ScreenFlow 文档格式。 在这种情况下, 您将无法在旧版本的 ScreenFlow 中打开此文档。
+
+如果要与旧版本的 ScreenFlow 兼容, 请保存此文档的副本。2</string>
+	<key>Saving to Google Drive or Dropbox is not supported</key>
+	<string>不支持保存到 Google 云端硬盘或 Dropbox</string>
+	<key>Scale</key>
+	<string>缩放</string>
+	<key>Scale To Fill</key>
+	<string>缩放比例</string>
+	<key>Scale To Fit</key>
+	<string>适合比例</string>
+	<key>Scale cannot be greater than 100,000,000%</key>
+	<string>比例不能大于 100,000,000 ％</string>
+	<key>Scale cannot be less than or equal to 0.</key>
+	<string>比例不能小于或等于0 。</string>
+	<key>Scale cannot be less than zero</key>
+	<string>比例不能小于零</string>
+	<key>Scale to Fit</key>
+	<string>适合比例</string>
+	<key>Scale:</key>
+	<string>扩大／缩小:</string>
+	<key>Screen Dimensions</key>
+	<string>屏幕尺寸</string>
+	<key>Screen Recording</key>
+	<string>屏幕录制</string>
+	<key>Screen Recording %@</key>
+	<string>屏幕录制 %@</string>
+	<key>Screen Recording Action</key>
+	<string>屏幕录制动作</string>
+	<key>Screen Recording Snapback</key>
+	<string>屏幕录制快照合并</string>
+	<key>Screen Recording Styles</key>
+	<string>屏幕录制样式</string>
+	<key>ScreenFlow Executable Modified</key>
+	<string> ScreenFlow  可执行文件已被更改</string>
+	<key>ScreenFlow Recording Monitor</key>
+	<string>ScreenFlow 记录监视器</string>
+	<key>ScreenFlow cannot export without a filename for the finished result.  Please enter a filename and try again.</key>
+	<string> ScreenFlow 不能导出没有一个文件名完成的结果。请输入文件名，然后再试一次。</string>
+	<key>ScreenFlow cannot open recordings made on a different processor architecture.  This means you won't be able to open files created on a		PowerPC machine on an Intel one, and vice versa.  Please make your recordings on the same type of system.</key>
+	<string>ScreenFlow 无法打开使用不同处理器架构的电脑上创建的录制。 因此, 您无法在英特尔计算机上打开 PowerPC 计算机上创建的文件 (反之亦然)。 确保在同一类型处理器架构的系统上创建录制。</string>
+	<key>ScreenFlow cannot open recordings made on a different processor architecture.  This means you won't be able to open files created on a PowerPC machine on an Intel one, and vice versa.  Please make your recordings on the same type of system.</key>
+	<string>ScreenFlow 无法打开使用不同处理器架构的电脑上创建的录制。 因此, 您无法在英特尔计算机上打开 PowerPC 计算机上创建的文件 (反之亦然)。 确保在同一类型处理器架构的系统上创建录制。</string>
+	<key>ScreenFlow cannot split clips at the very beginning or very end.  Please adjust the position of your split.</key>
+	<string>在 ScreenFlow 中, 不能在其开始或结束位置拆分剪辑。 调整拆分的位置。</string>
+	<key>ScreenFlow does not recognize the document format.  This is typically caused when trying to open a document created by a newer version of ScreenFlow.  Please try opening this document using the latest verison of ScreenFlow.</key>
+	<string> ScreenFlow 无法识别此文档格式。 当您尝试打开使用较新版本的 ScreenFlow 创建的文档时, 通常会发生这种情况。 尝试使用最新版本的 ScreenFlow 打开此文档。</string>
+	<key>ScreenFlow does not recognize the document format.  This is typically caused when trying to open a document created by a newer version of ScreenFlow.  Please try opening this document using the latest version of ScreenFlow.</key>
+	<string> ScreenFlow 无法识别此文档格式。 当您尝试打开使用较新版本的 ScreenFlow 创建的文档时, 通常会发生这种情况。 尝试使用最新版本的 ScreenFlow 打开此文档。</string>
+	<key>ScreenFlow does not support saving documents to either Google Drive or Dropbox. Data loss could occur if you choose to continue.</key>
+	<string> ScreenFlow 不支持将文档保存到 Google 云端硬盘或 Dropbox。 如果继续, 您可能会丢失数据。</string>
+	<key>ScreenFlow doesn't have permission to write to the capture scratch volume of "%@".
+
+You can cancel the recording and change this scratch path in the 'Preferences' or have ScreenFlow use the startup volume as a scratch location.</key>
+	<string>ScreenFlow 没有对 "% @" 的写访问权限, 这是一个捕获暂存卷。
+
+取消录制, 在偏好设置中更改此临时路径, 或将 ScreenFlow 设置为使用启动卷作为临时位置。</string>
+	<key>ScreenFlow doesn't have permission to write to the scratch path you have selected.  Please select another path.</key>
+	<string>ScreenFlow 没有写入选定的临时路径的权限。 请选择其他路径。</string>
+	<key>ScreenFlow encountered an internal validation error preventing it from saving the document.  Please try undoing your recent actions and then contact technical support with this message.</key>
+	<string>由于发生内部验证错误, 无法保存文档。 尝试取消以前的操作, 然后联系技术支持以咨询此消息的问题点。</string>
+	<key>ScreenFlow has a limit of 10 nested clips inside of one another.  Please reduce the number of nested clips in your presentation.</key>
+	<string>在 ScreenFlow 中, 可以嵌套的剪辑数量限制为10。 减少演示文稿中嵌套剪辑的数量。</string>
+	<key>ScreenFlow has been successfully unlocked and registered to you.  You will not need to unlock the application again.
+
+Thank you for purchasing ScreenFlow!</key>
+	<string> ScreenFlow  已经成功解锁并注册到你。你不会需要再次解锁应用程序。
+
+感谢您购买  ScreenFlow  ！</string>
+	<key>ScreenFlow has encounted a runtime error that can affect its ability to continue operating.  Please save your work and relaunch the application.  If the issue persists, please contact technical support and quote the message:
+
+%@</key>
+	<string>ScreenFlow 出现了一个运行时间错误, 可能会影响要继续执行的操作。 请保存您的工作并重新启动应用程序。 如果此问题仍然存在, 请与技术支持联系并发送以下消息:
+
+%@</string>
+	<key>ScreenFlow has encounted a runtime error that can affect its ability to continue operating.  Please save your work and relaunch the application.  If the issue persists, please contact technical support and quote the message:
+
+%@ 2</key>
+	<string>ScreenFlow 出现了一个运行时间错误, 可能会影响要继续执行的操作。 请保存您的工作并重新启动应用程序。 如果此问题仍然存在, 请与技术支持联系并发送以下消息:
+
+%@</string>
+	<key>ScreenFlow has encounted a runtime error that can affect its ability to continue operating.  Please save your work and relaunch the application.  If the issue persists, please contact technical support and quote the message:
+
+%@ 3</key>
+	<string>ScreenFlow 出现了一个运行时间错误, 可能会影响要继续执行的操作。 请保存您的工作并重新启动应用程序。 如果此问题仍然存在, 请与技术支持联系并发送以下消息:
+
+%@</string>
+	<key>ScreenFlow is licensed</key>
+	<string>ScreenFlow</string>
+	<key>ScreenFlow is required to be launched from within the '/Applications' folder, and cannot run from it's current location of "%@"</key>
+	<string>ScreenFlow 需要从 “/应用程序” 文件夹中启动，不能从当前位置“%@”运行</string>
+	<key>ScreenFlow is unable to record from the computer audio when the current output is set to AirPlay.  Please disable AirPlay audio output to enable recording.</key>
+	<string>当当前输出设置为 AirPlay 时，ScreenFlow 无法从录制计算机的音频。请禁用 AirPlay 音频输出来启用录制。</string>
+	<key>ScreenFlow is unable to record from the computer audio when the current output is set to Bluetooth.  Please disable Bluetooth audio output to enable recording.</key>
+	<string>当当前输出设置为蓝牙设备时，ScreenFlow 无法从录制计算机的音频。请禁用蓝牙设备音频输出来启用录制。</string>
+	<key>ScreenFlow needs accessibility access to record your keyboard</key>
+	<string>要录制键盘, 您需要在系统偏好设置中的安全性与隐私中的辅助功能项目内开启访问 ScreenFlow 。</string>
+	<key>ScreenFlow needs the latest version of the Flip4Mac Windows Media components installed to be able to export to Windows Media.  Please download and install the latest version.
+
+You will need to restart ScreenFlow after installing the components to complete the export.</key>
+	<string>ScreenFlow 需要安装的最新版本的 Flip4Mac Windows 媒体组件才能够导出到 Windows 媒体。请下载并安装最新版本。
+
+在组件安装完成后，需要重新启动ScreenFlow。</string>
+	<key>ScreenFlow needs the latest version of the Flip4Mac Windows Media components installed to be able to export to Windows Media.  Please download and install the latest version.
+
+You will need to restart ScreenFlow after installing the components to complete the export. 2</key>
+	<string>ScreenFlow 需要安装的最新版本的 Flip4Mac Windows 媒体组件才能够导出到 Windows 媒体。请下载并安装最新版本。
+
+在组件安装完成后，需要重新启动ScreenFlow。</string>
+	<key>ScreenFlow needs the latest version of the Flip4Mac Windows Media components installed to be able to export to Windows Media.  Please download and install the latest version.
+
+You will need to restart ScreenFlow after installing the components to complete the export. 3</key>
+	<string>ScreenFlow 需要安装的最新版本的 Flip4Mac Windows 媒体组件才能够导出到 Windows 媒体。请下载并安装最新版本。
+
+在组件安装完成后，需要重新启动ScreenFlow。</string>
+	<key>ScreenFlow records computer audio using a special driver that appears as an audio output to other apps.
+
+If the app you're recording isn't set to the Telestream Audio Driver, ScreenFlow may not receive audio.  Please perform a test recording to ensure you don't lose any content.</key>
+	<string>ScreenFlow 使用一个特殊的驱动程序记录计算机音频，这个驱动程序作为音频输出出现在其他应用程序中。
+
+如果您正在录制的应用程序没有设置为Telestream 音频驱动程序，ScreenFlow 可能无法接收音频。请先进行记录测试，以确保您不会丢失任何内容。</string>
+	<key>ScreenFlow successfully activated!</key>
+	<string>ScreenFlow 激活成功!</string>
+	<key>ScreenFlow successfully deactivated</key>
+	<string>ScreenFlow 取消激活成功</string>
+	<key>ScreenFlow successfully imported %d keysets from the keyset file.</key>
+	<string>ScreenFlow 成功地从 keyset 文件导入%d 键盘快捷键集。</string>
+	<key>ScreenFlow was able to find unsaved data associated with the document.  Discarding will open the document from its last saved point.</key>
+	<string>找到与此文档关联的 ScreenFlow 未保存数据。 丢弃这些数据将以上次保存时的状态打开文档。</string>
+	<key>ScreenFlow was able to recover a screencast after a fatal error.  Press Recover to restore the original screencast, or Discard to delete it.
+</key>
+	<string>ScreenFlow 在出现致命错误后能够恢复截屏视频。点击“恢复”按钮来还原最初的截屏视频，或点击 "放弃" 按钮将其删除。
+3</string>
+	<key>ScreenFlow was able to recover a screencast after a fatal error.  Press Recover to restore the original screencast, or Discard to delete it.
+ 2</key>
+	<string>ScreenFlow 在出现致命错误后能够恢复截屏视频。点击“恢复”按钮来还原最初的截屏视频，或点击 "放弃" 按钮将其删除。
+3</string>
+	<key>ScreenFlow was able to recover a screencast after a fatal error.  Press Recover to restore the original screencast, or Discard to delete it.
+ 3</key>
+	<string>ScreenFlow 在出现致命错误后能够恢复截屏视频。点击“恢复”按钮来还原最初的截屏视频，或点击 "放弃" 按钮将其删除。
+3</string>
+	<key>ScreenFlow was unable to %@ "%@" located at "%@".
+
+The error returned was %ld.</key>
+	<string> ScreenFlow  无法去 %@ "%@" ,位于 "%@".
+
+返回的错误是 %ld.</string>
+	<key>ScreenFlow was unable to %@ "%@" located at "%@".
+
+The error returned was %ld. 2</key>
+	<string>ScreenFlow 无法去 %@ "%@" ,位于 "%@".
+
+返回的错误为 %ld. 2</string>
+	<key>ScreenFlow was unable to %@ "%@" located at "%@".
+
+The error returned was %ld. 3</key>
+	<string> ScreenFlow  无法去 %@ "%@" ,位于 "%@".
+
+返回的错误是 %ld.</string>
+	<key>ScreenFlow was unable to copy "%@" located at "%@".</key>
+	<string>ScreenFlow 无法复制 "%@" ,位于: "%@".</string>
+	<key>ScreenFlow was unable to copy "%@" located at "%@".
+
+The error returned was %ld.</key>
+	<string>ScreenFlow 无法复制 "%@" ,位于: "%@".
+
+返回的错误为 %ld.</string>
+	<key>ScreenFlow was unable to copy "%@" located at "%@".
+
+The error returned was %ld. 2</key>
+	<string>ScreenFlow 无法复制位于 "%2$@" 上的  "%1$@" .
+
+返回的错误为 %3$ld.</string>
+	<key>ScreenFlow was unable to copy "%@" located at "%@".
+
+The error returned was %ld. 3</key>
+	<string>ScreenFlow 无法复制位于 "%2$@" 上的  "%1$@" .
+
+返回的错误为 %3$ld.</string>
+	<key>ScreenFlow was unable to copy "%@" located at "%@".  This can occur if the file is on a disconnected drive.  Please reconnect the drive or remove the clip and source from the document.</key>
+	<string>ScreenFlow 无法复制 "%2$@" 上的 "%1$@" 文件。 如果此文件位于未连接的驱动器上, 则可能发生这种情况。 重新连接驱动器或从文档中删除剪辑和源文件。</string>
+	<key>ScreenFlow was unable to find "%@" located at "%@".  Please try restoring the file back to this location.</key>
+	<string>ScreenFlow  无法找到在"%2$@" 的 "%1$@" .  请尝试将文件还原回此位置.</string>
+	<key>ScreenFlow was unable to find the document data file.  This could have been caused by file corruption or a failure when saving the document.  Without the document data file, ScreenFlow will not be able to open this document.</key>
+	<string>ScreenFlow 无法找到文档数据文件。这可能是由于文件损坏或保存文档时出现故障造成的。如果没有文档数据文件，ScreenFlow 将无法打开这个文档。</string>
+	<key>ScreenFlow was unable to find the file %@.  You can select a new location for this file, or remove it from your document.</key>
+	<string>ScreenFlow 无法找到 %@ 文件 .  你可以为这个文件选择一个新的位置，或者从您的文档中删除。</string>
+	<key>ScreenFlow was unable to import the file into the global media library.  This occurs if the file cannot be opened or is not a supported file format.  Please check the file and try again.</key>
+	<string>ScreenFlow 无法将文件导入到全局媒体库。如果文件无法打开或不支持此文件格式，就会出现这种情况。请检查文件并再试一次。</string>
+	<key>ScreenFlow was unable to import the following files into the global library</key>
+	<string>ScreenFlow 无法将以下文件导入到全局媒体库中</string>
+	<key>ScreenFlow was unable to open a session on the graphics card.  If no monitor is attached to the machine, please attach one to reactivate the graphics card.</key>
+	<string>ScreenFlow 无法使用此图形卡打开会话。 如果显示器未连接到计算机, 请连接显示器以重新激活显卡。</string>
+	<key>ScreenFlow was unable to open the file %@.
+
+The error message was "%@"</key>
+	<string> ScreenFlow 无法打开%@ 文件 .
+
+该错误信息是 "%@"</string>
+	<key>ScreenFlow was unable to open the file %@.
+
+The error message was "%@" 2</key>
+	<string>ScreenFlow 无法打开文件 %1$@.
+
+错误信息为 "%2$@"</string>
+	<key>ScreenFlow was unable to open the file %@.
+
+The error message was "%@" 3</key>
+	<string>ScreenFlow 无法打开文件 %1$@.
+
+错误信息为 "%2$@" </string>
+	<key>ScreenFlow was unable to open the screen recording file.  This can occur if the file was corrupted during recording or if the application crashed before the file was closed.  Please try your recording again.</key>
+	<string>ScreenFlow 无法打开屏幕录制文件。 文件在录制过程中可能已损坏, 或者应用程序在关闭文件之前可能已崩溃。 请再次尝试录制。</string>
+	<key>ScreenFlow was unable to save the document to the requested location.  Please check you have permission to save to this location and that the selected location is writable.</key>
+	<string> ScreenFlow 无法将文档保存到所请求的位置。请检查您有权限保存到此位置且所选定的位置是可写的。</string>
+	<key>ScreenFlow was unable to use the server result to unlock. Please try your request again and if the problem persists, contact Vara technical support.</key>
+	<string>ScreenFlow无法使用服务器返回的信息解锁。请再次尝试您的请求，如果问题仍然存在，请联系 Vara 技术支持。</string>
+	<key>ScreenFlowHelper was unable to notify ScreenFlow about a new recording.</key>
+	<string>ScreenFlowHelper 无法通知 ScreenFlow 有关新录制的信息。</string>
+	<key>Screencast duration warning</key>
+	<string>视频截屏时长警告</string>
+	<key>Search</key>
+	<string>搜索</string>
+	<key>Select</key>
+	<string>选择</string>
+	<key>Select Clips After Scrubber</key>
+	<string>选择刷子之后的剪辑</string>
+	<key>Select Clips Before Scrubber</key>
+	<string>选择刷子之前的剪辑</string>
+	<key>Select Clips Under Scrubber</key>
+	<string>选择 “刷子” 下方的剪辑</string>
+	<key>Select Clips in Timeline</key>
+	<string>在时间轴中选择剪辑</string>
+	<key>Select a different output folder and try again.</key>
+	<string>请选择其他输出文件夹并重试。</string>
+	<key>Selected export preset no longer available.</key>
+	<string>所选导出预设不可用。</string>
+	<key>Send diagnostic and usage information</key>
+	<string>发送诊断和使用信息</string>
+	<key>Sentimental</key>
+	<string>伤感</string>
+	<key>Serial number has been blacklisted</key>
+	<string>序列号被列入黑名单</string>
+	<key>Serial number is no longer valid</key>
+	<string>序列号不再有效</string>
+	<key>Set Click Sound</key>
+	<string>设置点击声音</string>
+	<key>Set Current Language</key>
+	<string>设置当前语言</string>
+	<key>Set Font</key>
+	<string>设置字体</string>
+	<key>Set Font Attributes</key>
+	<string>设置字体属性</string>
+	<key>Set Font Size</key>
+	<string>设置字体大小</string>
+	<key>Set Mix to Mono</key>
+	<string>设置混音为单声道</string>
+	<key>Set Timer</key>
+	<string>设置计时器</string>
+	<key>Setup and Start Partial Screen Capture</key>
+	<string>设置并启动区域屏幕截图</string>
+	<key>Shortcuts</key>
+	<string>快捷方式</string>
+	<key>Show Clip Inspector...</key>
+	<string>显示剪辑检查器...</string>
+	<key>Show Content-Type Overlays</key>
+	<string>显示内容类型叠加</string>
+	<key>Show Desktop Icons</key>
+	<string>显示桌面图标</string>
+	<key>Show Duration Overlays</key>
+	<string>显示时长叠加</string>
+	<key>Show Inspector</key>
+	<string>显示检查器</string>
+	<key>Show Quick Media Library</key>
+	<string>显示快速媒体库</string>
+	<key>Show Recording Monitor</key>
+	<string>显示录制监视器</string>
+	<key>Show Timeline</key>
+	<string>显示时间线</string>
+	<key>Show Transition Inspector...</key>
+	<string>显示过渡检查器...</string>
+	<key>Show...</key>
+	<string>显示...</string>
+	<key>Shrink</key>
+	<string>收缩</string>
+	<key>Sign In</key>
+	<string>登录</string>
+	<key>Size</key>
+	<string>大小</string>
+	<key>Slat Wipe</key>
+	<string>板条擦除</string>
+	<key>Slide &amp; Zoom</key>
+	<string>滑动 &amp; 缩放</string>
+	<key>Snap canvas to foreground window.</key>
+	<string>将画布与前景窗口对齐.</string>
+	<key>Snapback Action cannot be added</key>
+	<string>不能添加快速返回操作</string>
+	<key>Solid Circle</key>
+	<string>实心圆</string>
+	<key>Solid Color</key>
+	<string>纯色</string>
+	<key>Solo this channel</key>
+	<string>分离此通道</string>
+	<key>Solo this channel.  Hold the Command key to solo multiple channels at once.</key>
+	<string>分离此通道。 若要同时分离多个通道, 请按住 Command 键</string>
+	<key>Sorting Options</key>
+	<string>排序选项</string>
+	<key>Sound Effects</key>
+	<string>声音效果</string>
+	<key>Source Name</key>
+	<string>源名称</string>
+	<key>Sources cannot be restored once they have been deleted.</key>
+	<string>一旦被删除，源将无法被恢复。</string>
+	<key>Speed Change</key>
+	<string>变速</string>
+	<key>Speed: %.0f%%
+</key>
+	<string>速度 %.0f%%
+</string>
+	<key>Speed: %.0f%%
+ 2</key>
+	<string>速度: %.0f%%
+</string>
+	<key>Speed: %.0f%%
+ 3</key>
+	<string>速度:%.0f%%
+</string>
+	<key>Spin</key>
+	<string>自旋</string>
+	<key>Split</key>
+	<string>拆分</string>
+	<key>Split Clip</key>
+	<string>拆分剪辑</string>
+	<key>Split Clip at Playhead</key>
+	<string>在播放头位置拆分剪辑</string>
+	<key>Split Clips</key>
+	<string>拆分剪辑</string>
+	<key>Sports and Outdoors</key>
+	<string>运动和户外</string>
+	<key>Spring</key>
+	<string>弹簧</string>
+	<key>Square</key>
+	<string>方形</string>
+	<key>Square Reveal</key>
+	<string>方形展现</string>
+	<key>Squares Reveal</key>
+	<string>方形展现</string>
+	<key>Start Demo</key>
+	<string>开始演示:</string>
+	<key>Start New Recording</key>
+	<string>启动新录制</string>
+	<key>Start Partial Screen Recording</key>
+	<string>开始区域屏幕录制</string>
+	<key>Startup Volume</key>
+	<string>启动卷</string>
+	<key>Still Images</key>
+	<string>静止图像</string>
+	<key>Stock Media Library</key>
+	<string>官方媒体库</string>
+	<key>Stock Media Library Download Error</key>
+	<string>官方媒体库下载错误</string>
+	<key>Stock Media Library Error</key>
+	<string>官方媒体库错误</string>
+	<key>Stop Batch</key>
+	<string>停止批处理</string>
+	<key>Stop Record</key>
+	<string>停止录制</string>
+	<key>Stretch</key>
+	<string>拉伸</string>
+	<key>Stretch to Fit</key>
+	<string>拉伸至适合</string>
+	<key>Style Presets allow you to quickly apply properties to your clips &amp; actions
+
+The current selection has only default values, so a new style cannot be created</key>
+	<string>可以使用样式预设快速将属性应用于剪辑和操作。
+
+由于当前所选内容仅具有默认值, 因此无法创建新样式。</string>
+	<key>Suspenseful</key>
+	<string>紧张</string>
+	<key>Swap</key>
+	<string>交换</string>
+	<key>System Presets</key>
+	<string>系统预设</string>
+	<key>System Requirements Warning</key>
+	<string>系统需求警告</string>
+	<key>Techno</key>
+	<string>科技舞曲</string>
+	<key>Template Placeholder</key>
+	<string>模板预留位</string>
+	<key>Template name cannot be longer than 40 characters</key>
+	<string>模板名称不能超过40个字符</string>
+	<key>Templates</key>
+	<string>模板</string>
+	<key>Templates are created from existing documents using 'Save As Template...' menu item under the 'File' menu</key>
+	<string>模板是使用 "另存为模板" 菜单从现有文档创建的。</string>
+	<key>Text</key>
+	<string>文本</string>
+	<key>Text Clip</key>
+	<string>文本剪辑</string>
+	<key>Text Size</key>
+	<string>文本大小</string>
+	<key>Text Styles</key>
+	<string>文本样式</string>
+	<key>Thank you for activating ScreenFlow.</key>
+	<string>感谢您激活 ScreenFlow.</string>
+	<key>Thank you for downloading and evaluating ScreenFlow.  The application is fully functional but will watermark any documents you export (if you decide to purchase ScreenFlow, you'll be able to export your saved documents without the watermark).
+
+We hope you enjoy using ScreenFlow. 3</key>
+	<string>感谢下载和体验 ScreenFlow。本应用程序功能完整，但是会对导出的所有文档添加水印 (如果您决定购买 ScreenFlow，您将能够导出保存不带水印的文档)。
+
+我们希望您喜欢使用 ScreenFlow。</string>
+	<key>Thank you for downloading and evaluating ScreenFlow.  The application will watermark any documents you export, but as an existing ScreenFlow customer, you'll receive a discounted upgrade price to ScreenFlow 5.
+
+You still have access to your old version of ScreenFlow in the same folder as ScreenFlow 5.  We hope you enjoy the new features of ScreenFlow.</key>
+	<string>感谢下载和体验 ScreenFlow。应用程序会对导出的所有文档添加水印，但是作为 ScreenFlow现有客户，您将获得折扣的 ScreenFlow 5 升级价格。
+
+您仍然可以在与 ScreenFlow 5 相同的文件夹中访问旧版本的 ScreenFlow。我们希望您喜欢ScreenFlow 的新功能。</string>
+	<key>Thank you for downloading and evaluating ScreenFlow.  The application will watermark any documents you export, but as an existing ScreenFlow customer, you'll receive a discounted upgrade price to ScreenFlow 8.
+
+You still have access to your old version of ScreenFlow in the same folder as ScreenFlow 8.  We hope you enjoy the new features of ScreenFlow.</key>
+	<string>感谢下载和体验 ScreenFlow。应用程序会对导出的所有文档添加水印，但是作为 ScreenFlow现有客户，您将获得折扣的 ScreenFlow 8 升级价格。
+
+您仍然可以在与 ScreenFlow 8 相同的文件夹中访问旧版本的 ScreenFlow。我们希望您喜欢ScreenFlow 的新功能。</string>
+	<key>Thank you for downloading and evaluating ScreenFlow.  The application will watermark any documents you export, but as an existing ScreenFlow customer, you'll receive a special discount on an upgrade to ScreenFlow 5.
+
+We hope you enjoy the new features of ScreenFlow 5.</key>
+	<string>感谢下载和体验 ScreenFlow。应用程序会对导出的所有文档添加水印，但是作为 ScreenFlow现有客户，您将获得折扣的 ScreenFlow 5 升级价格。
+
+我们希望您喜欢ScreenFlow 5 的新功能。</string>
+	<key>Thank you for downloading and evaluating ScreenFlow.  The application will watermark any documents you export, but as an existing ScreenFlow customer, you'll receive a special discount on an upgrade to ScreenFlow 8.
+
+We hope you enjoy the new features of ScreenFlow 8.</key>
+	<string>感谢下载和体验 ScreenFlow。应用程序会对导出的所有文档添加水印，但是作为 ScreenFlow现有客户，您将获得折扣的 ScreenFlow 8 升级价格。
+
+我们希望您喜欢ScreenFlow 8 的新功能。</string>
+	<key>The 3ivx QuickTime video codec has been detected on your system.  Under this version of Mac OS X, it causes crashes importing or exporting any media content with ScreenFlow.  Please check for the '3ivxVideoCodec.component' and remove, then quit and relaunch ScreenFlow.
+
+It can exist in these folders:
+
+/Library/QuickTime/
+/System/Library/QuickTime/
+</key>
+	<string>在您的系统上检测到 3ivx QuickTime 视频编解码器。 在此版本的 Mac OS X 中, 此编解码器会导致系统在加载或导出 ScreenFlow 中的媒体内容时崩溃。 找到并删除 "3ivxVideoCodec.component" 后, 退出并重新启动 ScreenFlow。
+
+这可能位于以下文件夹中:
+
+/Library/QuickTime/
+/System/Library/QuickTime/</string>
+	<key>The License Key entered could not be validated.  Please check the key you entered carefully for mistakes, and if possible copy &amp; paste the license from the original email receipt.</key>
+	<string>无法验证输入的许可证密钥。请仔细检查您输入的密钥是否有错误，如果可能的话，请从原始的电子邮件收据中复制粘贴许可证。</string>
+	<key>The SRT file did not contain any captions that could be read</key>
+	<string>此 SRT 文件未包含任何可加载的字幕</string>
+	<key>The build duration of the callout is larger than the maximum value of %.1fs.</key>
+	<string>注记的长度超过最大值 %.1fs.</string>
+	<key>The canvas width and height cannot be missing or zero.</key>
+	<string>画布宽度和高度不能缺失或为零。</string>
+	<key>The caption duration cannot be less than or equal to 0 seconds.  Please adjust the duration</key>
+	<string>标题时长不能小于或等于0秒。请调整时长</string>
+	<key>The capture scratch volume of "%@" could not be located.
+
+You can cancel the recording and change this scratch path in the 'Preferences' or have ScreenFlow use the startup volume as a scratch location.</key>
+	<string>无法找到捕获暂存盘卷“%@”。
+
+您可以取消录制并在“首选项”中更改此暂存路径，或者让 ScreenFlow 使用启动卷作为暂存位置。</string>
+	<key>The created recording has been opened in the Finder, and can be manually imported in ScreenFlow.</key>
+	<string>创建的录制已经在 Finder 中打开，也可以在 ScreenFlow 中手动导入。</string>
+	<key>The currently running batch export has not completed yet.  Please wait for the export to finish or press 'Stop Batch' to cancel.</key>
+	<string>当前正在运行的批处理导出尚未完成。 等待导出完成, 或按 "停止批处理” 取消。</string>
+	<key>The document "%@" could not be saved.</key>
+	<string>该文档 "%@" 无法保存。</string>
+	<key>The duration of the caption is too short.</key>
+	<string>标题的时长太短。</string>
+	<key>The duration should be greater than 0 seconds and less than 30 seconds.</key>
+	<string>时长应大于0秒，小于30秒。</string>
+	<key>The duration value cannot be greater than %qd hours.</key>
+	<string>时长值不能大于 %qd 小时。</string>
+	<key>The duration value cannot be less than or equal to 0.  Please adjust the duration to be a positive value.</key>
+	<string>时长值不能小于或等于0。请将时长调整为正确的值。</string>
+	<key>The error code returned by the system was %@.  Please try your export again and if the problem persists contact technical support.</key>
+	<string>系统所返回的错误码是 %@.  请重新尝试导出，如果问题仍然存在则请联系技术支持。</string>
+	<key>The export URL is not able to be resolved.</key>
+	<string>无法解析导出 URL。</string>
+	<key>The export path is not writable.</key>
+	<string>输出路径无法写入。</string>
+	<key>The export path is not writable.  Please check the permissions on the path and try again.</key>
+	<string>输出路径无法写入。请检查该路径的权限，然后重试。</string>
+	<key>The export volume has run out of space.  Please free up some space and try again.</key>
+	<string>输出的磁盘卷已无可用空间。请释放一些空间，然后再试一次。</string>
+	<key>The exported filename contained illegal characters.  Please rename your export and try again.</key>
+	<string>输出的文件名含有非法字符。请重新命名您的输出文件，然后再试一次。</string>
+	<key>The following media sources do not have clips in the timeline and can be automatically deleted.</key>
+	<string>以下媒体来源没有剪辑在时间轴上调用，可以自动删除。</string>
+	<key>The license has been returned and the serial number is no longer active.  Please purchase again to continue to use the software.</key>
+	<string>此序列号无效, 因为许可证已撤销。 要继续使用此软件, 请再次购买。</string>
+	<key>The new Keyboard Shortcut set is required to have a name.</key>
+	<string>您必须命名新的键盘快捷键集。</string>
+	<key>The opacity should be between %@ and %@.</key>
+	<string>此不透明度应介于 %@ 和 %@.</string>
+	<key>The operation could not be completed after an error occurred with the licensing server.  The error code returned was %d.  Please try again.</key>
+	<string>此操作在授权服务器发生错误后无法完成。返回的错误代码为 %d。 请再试一次。</string>
+	<key>The operation could not be completed after an error occurred.  The error code is %d.  Please try again.</key>
+	<string>此操作在发生错误后无法完成。 错误代码为 %d。 请再试一次。</string>
+	<key>The record loop hours requires a value</key>
+	<string>此循环记录中的小时数需要一个设定值</string>
+	<key>The record loop minutes requires a value</key>
+	<string>此循环记录中的分钟数需要一个设定值</string>
+	<key>The recording was stopped before any output was generated.  Please give the recorder more time before stopping it.</key>
+	<string>在生成输出之前已停止录制。在停止录制前，请给它更多的时间。</string>
+	<key>The scale percentage cannot be less than or equal to 0.  Please enter a positive scale percentage.</key>
+	<string>此缩放百分比值不能小于零。 请输入正确的值。</string>
+	<key>The scale percentage would cause the output width or height to be greater than the maximum supported value of 4096.</key>
+	<string>此比例百分比会导致输出的宽度或高度大于所支持的 4096 最大的值。</string>
+	<key>The scale percentage would cause the output width or height to be greater than the maximum supported value of 8192.</key>
+	<string>此比例百分比会导致输出的宽度或高度大于所支持的 8192 最大的值。</string>
+	<key>The selected camera is in use by another application.  Please close any other applications using the camera and try again.</key>
+	<string>所选摄像头正在由另一个应用程序使用。 请关闭任何其他使用此摄像头的应用程序并重试。</string>
+	<key>The selected camera wasn't found.  Please reconnect the camera or select another one.</key>
+	<string>找不到选定的摄像头。 重新连接摄像头或选择其他摄像头。</string>
+	<key>The selected desktop wasn't found.  Please reconnect the display or select another one.</key>
+	<string>找不到选定的桌面。 重新连接显示器或选择其他显示器。</string>
+	<key>The selected microphone wasn't found.  Please reconnect the microphone or select another one.</key>
+	<string>找不到选定的麦克风。 请重新连接麦克风或选择其他麦克风。</string>
+	<key>The selected path for writing the finished file to is not valid.  Please pick another folder and try again.</key>
+	<string>您选择将完成的文件写入的路径无效。 请选择其他文件夹并重试。</string>
+	<key>The selected scratch volume has a maximum filesize of %@ - this will limit the total length of the recording.  This can occur if the volume is FAT formatted.
+
+Please consider using another volume or formatting the volume with an Apple filesystem.</key>
+	<string>所选临时磁盘卷的最大文件大小为 %@。 这将限制录制的总长度。 当磁盘卷为 FAT 格式时, 就会发生这种情况。
+
+请考虑在 中使用不同的卷或使用 Apple 文件系统来格式化磁盘卷。</string>
+	<key>The serial number does not match this version</key>
+	<string>序列号与此版本不匹配</string>
+	<key>The serial number entered has been blacklisted due to a refund, trial license, or license exchange.</key>
+	<string>您输入的序列号列在 "退款"、"试用许可证" 或 "许可证交换" 的黑名单上。</string>
+	<key>The serial number entered is for ScreenFlow 5 and earlier.   For more information on upgrading or downloading a previous version, please see our knowledge base at our support site.</key>
+	<string>输入的序列号为 ScreenFlow 5 和更早版本。  有关升级或下载以前版本的详细信息, 请参阅我们的支持网站上的知识库。</string>
+	<key>The serial number entered is for a previous version of ScreenFlow. Please check to make sure sure you have entered the correct serial number for the product you purchased.</key>
+	<string>您输入的序列号来自早期版本的 ScreenFlow。 确保您输入的序列号来自您购买的产品。</string>
+	<key>The serial number entered was not valid.  Please check what was entered and try again.</key>
+	<string>输入的序列号无效。 请检查输入的内容并重试。</string>
+	<key>The serial number entered was rejected by the server.  If you believe this message is in error, please contact Telestream support.</key>
+	<string>输入的序列号被服务器拒绝。 如果您认为此信息有误, 请联系 Telestream 支持。</string>
+	<key>The serial number has already been activated on the maximum number of computers permitted by your license. For more information on deactivating a previous machine or to purchase another license, please visit our support site.</key>
+	<string>序列号已在您的许可证允许的最大计算机数上激活。有关停用前一台机器或购买其他许可证的详细信息, 请访问我们的支持网站。</string>
+	<key>The serial number has been deactivated on this machine and the application is no longer licensed.</key>
+	<string>此计算机上的序列号已停用, 应用程序不再获得授权。</string>
+	<key>The serial number was successfully activated but did not contain the right to use ScreenFlow.  Please check to make sure you have entered the correct serial number and check against the product you purchased.</key>
+	<string>序列号已成功激活, 但未包含使用 ScreenFlow 的权限。 请检查您是否输入了正确的序列号, 并检查您购买的产品。</string>
+	<key>The size of the video being imported is larger than the graphics cards maximum of %.0fx%.0f.  Please reduce the image size before importing.</key>
+	<string>被导入的所述视频的尺寸比最大的显卡较大 %.0fx%.0f.  导入之前，请缩小图像尺寸。</string>
+	<key>The speed value cannot be less than or equal to 0%.  Please adjust the speed to be a positive value.</key>
+	<string>速度值不能小于或等于0％。请调整速度为正确的值。</string>
+	<key>The system did not authorize the privileged operation.  Please quit the application and try again.</key>
+	<string>系统未授权特权操作。 请退出该应用程序并重试。</string>
+	<key>The timer requires a value</key>
+	<string>计时器需要一个设定值</string>
+	<key>The value entered is larger than the maximum.</key>
+	<string>输入的值大于最大值。</string>
+	<key>The value entered is smaller than the minimum.</key>
+	<string>输入的值小于最小值。</string>
+	<key>There are no audio clips in the document to import the SRT file into.</key>
+	<string>文档中没有要导入SRT文件的音频剪辑。</string>
+	<key>There are no captions in the document to export to an SRT file.</key>
+	<string>此文档中没有导出到 SRT 文件的字幕。</string>
+	<key>There is no more space on the disk to continue recording.  The recording has been stopped.</key>
+	<string>磁盘上剩余的空间不足, 无法继续录制。 录制已停止。</string>
+	<key>There is no more space on the disk to record safely.  Please free up some disk space and try again.</key>
+	<string>磁盘上没有剩余空间来安全地录制。 请释放一些磁盘空间并重试。</string>
+	<key>There isn’t enough space.  Remove some files from the volume, and then try again.</key>
+	<string>没有足够的空间。从卷中删除一些文件，然后再次尝试。</string>
+	<key>This example screencast shows you how to add a zoom and pan effect to your presentation by :
+
+1. Adding a Video Action.
+2. Resizing and moving the Screen Recording.
+</key>
+	<string>此截屏示例演示如何向演示文稿添加缩放/平移效果:
+
+1. 添加视频操作。
+2. 更改或移动屏幕录制大小。</string>
+	<key>Tile</key>
+	<string>放置在拼贴中</string>
+	<key>Tiles</key>
+	<string>拼贴</string>
+	<key>Timeline</key>
+	<string>时间线</string>
+	<key>To continue recording audio from your computer's speakers requires an upgrade of the Telestream Audio driver.
+
+The new audio driver increases compatibility with a wider range of Mac hardware &amp; software and enables capture from Bluetooth devices.
+
+You only need to perform this upgrade once.</key>
+	<string>要继续从计算机扬声器录制音频, 必须升级 Telestream 音频驱动程序。
+
+新的音频驱动程序更兼容 Mac 硬件和软件, 可以从蓝牙设备捕获。
+
+您只需执行一次此升级。</string>
+	<key>To continue recording audio from your computer's speakers requires an upgrade of the Telestream Audio driver.
+
+The new audio driver increases compatibility with a wider range of Mac hardware and enables capture from Bluetooth devices.
+
+You only need to perform this upgrade once.</key>
+	<string>要继续从计算机扬声器录制音频, 必须升级 Telestream 音频驱动程序。
+
+新的音频驱动程序更兼容 Mac 硬件, 可以从蓝牙设备捕获。
+
+您只需执行一次此升级。</string>
+	<key>To record audio from your computer's speakers requires the installation of the Telestream Audio driver.
+
+You only need to install the driver once.</key>
+	<string>要记录您计算机的扬声器音频需要安装 Telestream 音频驱动程序。
+
+你只需要安装驱动程序一次。</string>
+	<key>To record audio from your computer, you need to download and install an additional component.  This component will only be used by ScreenFlow to record audio from your computer's speakers.</key>
+	<string>要从您的计算机记录音频，您需要下载并安装一个额外的组件。这个组件将只被 ScreenFlow 用于记录来自计算机扬声器的音频。</string>
+	<key>Toggle Recording</key>
+	<string>切换录制</string>
+	<key>Toggle visibility of audio channel.</key>
+	<string>切换音频通道的可见性。</string>
+	<key>Toggles audio waveforms on timeline clips.</key>
+	<string>在时间轴剪辑上切换音频波形。</string>
+	<key>Toggles snapping of the timeline scrubber and clips to other clips in the timeline.  This also controls snapping of clips in the canvas.</key>
+	<string>切换时间轴上的时间轴和剪辑到其他剪辑。这也控制了在画布上剪辑的捕捉。</string>
+	<key>Toggles thumbnails on timeline clips.</key>
+	<string>在时间轴剪辑上切换缩略图。</string>
+	<key>Top</key>
+	<string>顶部</string>
+	<key>Top Left</key>
+	<string>左上方</string>
+	<key>Top Right</key>
+	<string>右上方</string>
+	<key>Top-Left</key>
+	<string>左上</string>
+	<key>Top-Right</key>
+	<string>右上</string>
+	<key>Top:</key>
+	<string>上:</string>
+	<key>Touch Callout</key>
+	<string>触摸注记</string>
+	<key>Touch Callout Move</key>
+	<string>触摸注记移动</string>
+	<key>Touch Callout Styles</key>
+	<string>触摸注记样式</string>
+	<key>Track Selection</key>
+	<string>曲目选择</string>
+	<key>Transition</key>
+	<string>过渡</string>
+	<key>Transition Change</key>
+	<string>过渡变化</string>
+	<key>Transition Duration</key>
+	<string>过渡时长</string>
+	<key>Transition Inspector</key>
+	<string>过渡检查器</string>
+	<key>Transition Property Change</key>
+	<string>过渡属性更改</string>
+	<key>Transition duration cannot be less than or equal to 0.</key>
+	<string>过渡时长不能小于或等于0 。</string>
+	<key>Transitions</key>
+	<string>过渡</string>
+	<key>Travel and Transportation</key>
+	<string>旅行和交通</string>
+	<key>Trending Now</key>
+	<string>当前热点</string>
+	<key>Trim End to Scrubber</key>
+	<string>修剪末端到刷子位</string>
+	<key>Trim Front to Scrubber</key>
+	<string>修剪前端到刷子位</string>
+	<key>Type</key>
+	<string>类型</string>
+	<key>Type:</key>
+	<string>类型:</string>
+	<key>Typing</key>
+	<string>键入</string>
+	<key>UNIT_SEPERATOR</key>
+	<string>UNIT_SEPERATOR</string>
+	<key>Unable to %@ file "%@"</key>
+	<string>无法 %@ 文件 "%@"</string>
+	<key>Unable to activate Serial number</key>
+	<string>无法激活序列号</string>
+	<key>Unable to activate serial number</key>
+	<string>无法激活序列号</string>
+	<key>Unable to allocate graphics resources.</key>
+	<string>无法分配显卡资源。</string>
+	<key>Unable to begin exporting</key>
+	<string>无法开始输出</string>
+	<key>Unable to complete export.</key>
+	<string>无法完成输出。</string>
+	<key>Unable to copy file "%@"</key>
+	<string>无法复制文件 "%@"</string>
+	<key>Unable to create APNG</key>
+	<string>无法创建  APNG</string>
+	<key>Unable to create GIF</key>
+	<string>无法创建 GIF 动画</string>
+	<key>Unable to finalize APNG creation</key>
+	<string>无法完成 APNG 的创建</string>
+	<key>Unable to find Audio Driver for installation</key>
+	<string>无法找到音频驱动程序的安装包</string>
+	<key>Unable to find file "%@"</key>
+	<string>无法找到文件 "%@"</string>
+	<key>Unable to find uninstaller script for audio driver</key>
+	<string>无法找到音频驱动程序卸载脚本</string>
+	<key>Unable to further modify the %@.</key>
+	<string>无法进一步修改 %@.</string>
+	<key>Unable to import file</key>
+	<string>无法导入文件</string>
+	<key>Unable to import keyset</key>
+	<string>无法导入键盘快捷键集</string>
+	<key>Unable to import one or more media files.</key>
+	<string>无法导入多个媒体文件。</string>
+	<key>Unable to load captions</key>
+	<string>无法加载字幕</string>
+	<key>Unable to open SRT file</key>
+	<string>无法打开 SRT 文件</string>
+	<key>Unable to open ScreenFlow source.</key>
+	<string>无法打开 ScreenFlow 来源。</string>
+	<key>Unable to open URL</key>
+	<string>无法打开 URL 链接</string>
+	<key>Unable to open document.</key>
+	<string>无法打开文档。</string>
+	<key>Unable to open screen recording file.</key>
+	<string>无法打开屏幕录制文件。</string>
+	<key>Unable to optimize MPEG-4 for network usage</key>
+	<string>无法为网络使用优化的 MPEG -4</string>
+	<key>Unable to parse SMPTE time string</key>
+	<string>无法解析 SMPTE 时间字符串</string>
+	<key>Unable to paste action.</key>
+	<string>无法粘贴操作</string>
+	<key>Unable to record AirPlay output</key>
+	<string>无法录制 AirPlay 的输出</string>
+	<key>Unable to record Bluetooth output</key>
+	<string>无法录制 Bluetooth 的输出</string>
+	<key>Unable to run ScreenFlow outside of the 'Applications' folder.</key>
+	<string>无法在 “应用程序” 文件夹之外运行  ScreenFlow。</string>
+	<key>Unable to split clip</key>
+	<string>无法分割剪辑</string>
+	<key>Unable to unlock license</key>
+	<string>无法解锁许可证</string>
+	<key>Undefined</key>
+	<string>未定义</string>
+	<key>Under a minute</key>
+	<string>一分钟内</string>
+	<key>Undiscovered</key>
+	<string>未经发现</string>
+	<key>Ungroup</key>
+	<string>取消编组</string>
+	<key>Uninstall Driver</key>
+	<string>卸载驱动程序</string>
+	<key>Unknown</key>
+	<string>未知</string>
+	<key>Unknown Error</key>
+	<string>未知错误</string>
+	<key>Unlock Clip</key>
+	<string>解锁剪辑</string>
+	<key>Unlock Clips</key>
+	<string>解锁剪辑</string>
+	<key>Unlock successful!</key>
+	<string>解锁成功</string>
+	<key>Unnamed Marker</key>
+	<string>未命名标记</string>
+	<key>Unnest Clip</key>
+	<string>取消嵌套剪辑</string>
+	<key>Unnest Clips</key>
+	<string>取消嵌套剪辑</string>
+	<key>Unrecognized file format</key>
+	<string>无法识别的文件格式</string>
+	<key>Unsupported file format</key>
+	<string>不支持的文件格式</string>
+	<key>Untitled Clip</key>
+	<string>未命名剪辑</string>
+	<key>Untitled Document</key>
+	<string>未命名文档</string>
+	<key>Untitled New Style</key>
+	<string>未命名新样式</string>
+	<key>Update</key>
+	<string>更新</string>
+	<key>Update Template</key>
+	<string>更新模板</string>
+	<key>Upgrade</key>
+	<string>升级</string>
+	<key>Upgrade Computer Audio Driver</key>
+	<string>升级计算机音频驱动程序</string>
+	<key>Upgrade Now</key>
+	<string>立即升级</string>
+	<key>Upgrade...</key>
+	<string>升级...</string>
+	<key>Uplifting and Epic</key>
+	<string>激昂/史诗</string>
+	<key>Upload Complete</key>
+	<string>上传完成</string>
+	<key>Upload Completed</key>
+	<string>完成的上传</string>
+	<key>Upload cancelled</key>
+	<string>取消的上传</string>
+	<key>Use Startup Disk</key>
+	<string>使用启动盘</string>
+	<key>Vacuum</key>
+	<string>真空</string>
+	<key>Value cannot be empty</key>
+	<string>值不能为空</string>
+	<key>Value cannot be greater than %@.</key>
+	<string>值不能大于 %@.</string>
+	<key>Value cannot be less than %@.</key>
+	<string>值不能小于 %@.</string>
+	<key>Value must be between 2 and 4096.</key>
+	<string>值必须在 2 和 4096 之间。</string>
+	<key>Value must be between 2 and 8192.</key>
+	<string>值必须介于 2 和 8192 之间。</string>
+	<key>Value too large.</key>
+	<string>值太大</string>
+	<key>Value too small.</key>
+	<string>值太小</string>
+	<key>Vectors</key>
+	<string>矢量</string>
+	<key>Video</key>
+	<string>视频</string>
+	<key>Video Action</key>
+	<string>视频动作</string>
+	<key>Video Bitrate</key>
+	<string>视频比特率</string>
+	<key>Video Content Type</key>
+	<string>视频内容类型</string>
+	<key>Video Filters</key>
+	<string>视频滤镜</string>
+	<key>Video Motion</key>
+	<string>视频动作</string>
+	<key>Video Motion Styles</key>
+	<string>视频动作样式</string>
+	<key>Video Quality</key>
+	<string>视频质量</string>
+	<key>Video Snapback</key>
+	<string>视频快速返回 </string>
+	<key>Video Styles</key>
+	<string>视频样式</string>
+	<key>Visit Website</key>
+	<string>访问网站</string>
+	<key>Vocals</key>
+	<string>声乐</string>
+	<key>Volume Maximum Filesize Warning</key>
+	<string>磁盘卷最大文件大小警告</string>
+	<key>WARNING: 3ivx codec detected</key>
+	<string>警告:检测到 3ivx 编码解码器</string>
+	<key>Wait duration cannot be negative.</key>
+	<string>等待时长不能为负数。</string>
+	<key>Waiting to create...</key>
+	<string>正在等待创建...</string>
+	<key>Watch Tutorials</key>
+	<string>观看教程</string>
+	<key>Wave Wipe</key>
+	<string>波浪擦除</string>
+	<key>Web</key>
+	<string>网页</string>
+	<key>Welcome</key>
+	<string>欢迎使用</string>
+	<key>Welcome to ScreenFlow 2</key>
+	<string>欢迎使用  ScreenFlow 6</string>
+	<key>Welcome to ScreenFlow 5</key>
+	<string>欢迎使用  ScreenFlow 5</string>
+	<key>Welcome to ScreenFlow 6</key>
+	<string>欢迎使用  ScreenFlow 6</string>
+	<key>Welcome to ScreenFlow 7</key>
+	<string>欢迎使用  ScreenFlow 7</string>
+	<key>Welcome to ScreenFlow 8</key>
+	<string>欢迎使用  ScreenFlow 8</string>
+	<key>What's New</key>
+	<string>更新信息</string>
+	<key>When a nested clip is selected, ScreenFlow will export the project's timeline.</key>
+	<string>当选择一个嵌套的剪辑时，ScreenFlow 将导出项目的时间线。</string>
+	<key>When deleting media from the global library, this operation will remove reference to this file from every document, so if any other documents reference this media, they will no longer be able to access it.
+
+This operation cannot be undone.</key>
+	<string>从全局库中删除媒体将从所有文档中删除对此文件的引用。 因此, 如果其他文档引用此媒体, 这些文档将无法访问此媒体。
+
+无法撤消此操作。</string>
+	<key>Width and height cannot be zero or less</key>
+	<string>宽度和高度不能小于或等于零</string>
+	<key>Width:</key>
+	<string>宽:</string>
+	<key>Windshield Wipe</key>
+	<string>雨刮器擦除</string>
+	<key>Wipe Pack</key>
+	<string>擦除包</string>
+	<key>Wipe Pack Installed</key>
+	<string>已安装的擦除包</string>
+	<key>Wipes</key>
+	<string>擦除</string>
+	<key>With Alpha Channel.</key>
+	<string>使用 Alpha 通道。</string>
+	<key>Woodwind</key>
+	<string>木管乐器</string>
+	<key>World</key>
+	<string>世界</string>
+	<key>X Rotation:</key>
+	<string>X 轴旋转:</string>
+	<key>Y Rotation:</key>
+	<string>Y 轴旋转:</string>
+	<key>You are about to export a watermarked video. To avoid this in the future, please either activate your license by going to Preferences &gt; Licenses, or purchase a ScreenFlow license.</key>
+	<string>您将要导出一个带有水印的视频。为了避免将来出现这种情况，请通过转到 偏好设置 &gt;许可 来激活您的授权，或者购买 ScreenFlow 授权。</string>
+	<key>You are attempting to delete one or more media file that has not been saved in one of your open documents. Please remove the clip(s) from the timeline or save the document before deleting items from the global library.</key>
+	<string>您正在尝试删除一个或多个未保存在打开的文档中的媒体文件。 从时间轴中删除剪辑, 或在删除全局库项之前保存文档。</string>
+	<key>You can add an additional recording to your document.</key>
+	<string>您可以将其他录制添加到文档中。</string>
+	<key>You can use the Tab key to quickly move to the next caption, or Shift and Tab to move to the previous caption.
+
+Use ⌘↑ to increase the duration of the current caption, ⌘↓ to decrease.</key>
+	<string>若要快速移动到下一标题, 可以使用 Tab 键，Shift 键和 Tab 键移动到上一个标题。
+
+要增加当前字幕的显示时长, 请使用 ⌘ 加 ↑ 键, 或 ⌘ 加 ↓ 键将其缩短。</string>
+	<key>You have an existing license for a previous version of ScreenFlow, special upgrade pricing available</key>
+	<string>您将可以以优惠的价格升级, 因为您有一个旧版本的 ScreenFlow 的许可。</string>
+	<key>You may edit the contents of a nested clip by either double clicking on the clip or selecting 'Edit Nested Clip' from the clip's action menu.</key>
+	<string>你可以通过双击剪辑或从剪辑的操作菜单中选择“编辑嵌套剪辑”来编辑嵌套剪辑的内容。</string>
+	<key>You must have a valid subscription to the Stock Media Library to download content</key>
+	<string>您必须有有效的官方媒体库订阅才能下载内容</string>
+	<key>YouTube only allows certain accounts to upload more than 15 minutes of content.  If the upload is rejected, you must reduce the duration of the screencast to 15 minutes in order to publish it to YouTube.</key>
+	<string>YouTube 上只允许特定的帐户上传的内容超过15分钟。如果上传被拒绝，你必须降低截屏到15分钟的时间，才能将其发布到 YouTube 。</string>
+	<key>Your media has %ld clips in the timeline.  When you press 'Delete', these will also be deleted.</key>
+	<string>您的媒体在时间轴中有 %ld 个剪辑。 当您按下 "删除" 时, 这些也将被删除。</string>
+	<key>Your media has a clip in the timeline.  When you press 'Delete', this will also be deleted.</key>
+	<string>此媒体在时间轴中包含一个剪辑。 如果点击 “删除”键时, 这些剪辑也将被删除。</string>
+	<key>Your recording completed successfully.  You now have the option to create a new document or add to one of the open documents.</key>
+	<string>你的录制成功完成。现在您可以选择创建一个新文档或添加到一个打开的文档中。</string>
+	<key>Z Rotation:</key>
+	<string>Z 轴旋转:</string>
+	<key>Zoom In</key>
+	<string>放大</string>
+	<key>Zoom Out</key>
+	<string>缩小</string>
+	<key>Zooms the timeline. Use the View menu item "Zoom Timeline to Fit" to quickly see everything in your timeline.</key>
+	<string>缩放时间线。 通过使用 “查看” 菜单中的 "缩放时间线到适合”, 可以快速查看时间轴中的所有内容。</string>
+	<key>annotations</key>
+	<string>注释</string>
+	<key>categories</key>
+	<string>类别</string>
+	<key>circle</key>
+	<string>圆形</string>
+	<key>content_type</key>
+	<string>content_type</string>
+	<key>copy</key>
+	<string>拷贝</string>
+	<key>default</key>
+	<string>默认</string>
+	<key>http://dynamic.telestream.net/downloads/download-screenflow-audio.asp</key>
+	<string>http://dynamic.telestream.net/downloads/download- ScreenFlow -audio.asp</string>
+	<key>http://www.telestream.net/screen-flow/overview.htm</key>
+	<string>http://www.telestream.net/screen-flow/overview.htm</string>
+	<key>http://www.telestream.net/telestream-support/screen-flow/contact-support.htm</key>
+	<string>http://www.telestream.net/telestream-support/screen-flow/contact-support.htm</string>
+	<key>http://www.telestream.net/telestream-support/screen-flow/support.htm</key>
+	<string>http://www.telestream.net/telestream-support/screen-flow/support.htm</string>
+	<key>https://dynamic.telestream.net/downloads/hal-screenflow-audio-driver.asp</key>
+	<string>https://dynamic.telestream.net/downloads/hal-screenflow-audio-driver.asp</string>
+	<key>iOS Capture - iPad Landscape</key>
+	<string>iOS 捕获 - iPad 横向</string>
+	<key>iOS Capture - iPad Portrait</key>
+	<string>iOS 捕获 - iPad 竖向</string>
+	<key>iOS Capture - iPhone 5 Landscape</key>
+	<string>iOS 捕获 - iPhone 5 横向</string>
+	<key>iOS Capture - iPhone 5 Portrait</key>
+	<string>iOS 捕获 - iPhone 5 竖向</string>
+	<key>iOS Capture - iPhone 6 Landscape</key>
+	<string>iOS 捕获 - iPhone 6 横向</string>
+	<key>iOS Capture - iPhone 6 Plus Landscape</key>
+	<string>iOS 捕获 - iPhone 6 Plus 横向</string>
+	<key>iOS Capture - iPhone 6 Plus Portrait</key>
+	<string>iOS 捕获 - iPhone 6 Plus 竖向</string>
+	<key>iOS Capture - iPhone 6 Portrait</key>
+	<string>iOS 捕获 - iPhone 6 竖向</string>
+	<key>iOS Capture - iPhone 7 / 7 Plus Landscape</key>
+	<string>iOS 捕获 - iPhone 7 / 7 Plus 横向</string>
+	<key>iOS Capture - iPhone 7 / 7 Plus Portrait</key>
+	<string>iOS 捕获 - iPhone 7 / 7 Plus 竖向</string>
+	<key>iOS Capture - iPhone 8 / 8 Plus Landscape</key>
+	<string>iOS 捕获 - iPhone 8 / 8 Plus 横向</string>
+	<key>iOS Capture - iPhone 8 / 8 Plus Portrait</key>
+	<string>iOS 捕获 - iPhone 8 / 8 Plus 竖向</string>
+	<key>iOS Capture - iPhone Landscape</key>
+	<string>iOS 捕获 - iPhone 横向</string>
+	<key>iOS Capture - iPhone Portrait</key>
+	<string>iOS 捕获 - iPhone 竖向</string>
+	<key>iOS Capture - iPhone X Landscape</key>
+	<string>iOS 捕获 - iPhone X 横向</string>
+	<key>iOS Capture - iPhone X Portrait</key>
+	<string>iOS 捕获 - iPhone X 竖向</string>
+	<key>iOS Device</key>
+	<string>iOS 设备</string>
+	<key>iTunes Content</key>
+	<string>iTunes 内容</string>
+	<key>iTunes Library</key>
+	<string>iTunes 库</string>
+	<key>mono</key>
+	<string>单</string>
+	<key>move</key>
+	<string>移动</string>
+	<key>of</key>
+	<string>的</string>
+	<key>secs</key>
+	<string>秒</string>
+	<key>square</key>
+	<string>方形</string>
+	<key>stereo</key>
+	<string>立体</string>
+	<key>video actions</key>
+	<string>视频操作</string>
+</dict>
+</plist>

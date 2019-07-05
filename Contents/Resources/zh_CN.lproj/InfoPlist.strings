@@ -1,0 +1,10 @@
+{
+    CFBundleGetInfoString = "${APPLICATION_VERSION}, \U7248\U6743\U6240\U6709 \U00a9 2014 Telestream \U516c\U53f8";
+    CFBundleHelpBookFolder = " ScreenFlow  \U5e2e\U52a9";
+    CFBundleHelpBookName = " ScreenFlow  \U5e2e\U52a9";
+    NSCameraUsageDescription = "\U663e\U793a\U76f8\U673a\U7684\U9884\U89c8\U548c\U5f55\U5236";
+    NSContactsUsageDescription = "\U4ece\U76f8\U673a\U67e5\U770b\U9884\U89c8\U548c\U8bb0\U5f55";
+    NSHumanReadableCopyright = "\U7248\U6743\U6240\U6709 \U00a9 2014 Telestream \U516c\U53f8";
+    NSMicrophoneUsageDescription = "\U663e\U793a\U97f3\U9891\U7ea7\U522b\U5e76\U4ece\U76f8\U673a\U5f55\U5236";
+    "ScreenFlow Document" = "ScreenFlow \U6587\U6863";
+}

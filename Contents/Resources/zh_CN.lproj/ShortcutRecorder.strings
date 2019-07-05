@@ -1,0 +1,15 @@
+{
+    "Click to record shortcut" = "\U70b9\U51fb\U8bb0\U5f55\U5feb\U6377\U952e";
+    "Command + " = "Command + ";
+    "Control + " = "Control + ";
+    "Option + " = "Option + ";
+    "Pad %@" = "Pad %@";
+    "Shift + " = "Shift + ";
+    Space = "\U7a7a\U95f4";
+    "The key combination \"%@\" can't be used because %@." = "\U7ec4\U5408\U952e \"%@\" \U4e0d\U80fd\U7528\U56e0\U4e3a %@.";
+    "The key combination \"%@\" can't be used because it's already used by a system-wide keyboard shortcut. (If you really want to use this key combination, most shortcuts can be changed in the Keyboard & Mouse panel in System Preferences.)" = "\U7ec4\U5408\U952e \"%@\" \U4e0d\U80fd\U88ab\U4f7f\U7528\Uff0c\U56e0\U4e3a\U5b83\U5df2\U7ecf\U4f7f\U7528\U7684\U5168\U7cfb\U7edf\U7684\U952e\U76d8\U5feb\U6377\U952e\U3002 (\U5982\U679c\U4f60\U771f\U7684\U60f3\U7528\U8fd9\U4e2a\U7ec4\U5408\U952e\Uff0c\U6700\U5feb\U6377\U952e\U53ef\U4ee5\U5728\U952e\U76d8\U6765\U6539\U53d8\U3002)";
+    "The key combination \"%@\" can't be used because it's already used by the menu item \"%@\"." = "\U7ec4\U5408\U952e \"%@\" \U4e0d\U80fd\U88ab\U4f7f\U7528\Uff0c\U56e0\U4e3a\U5b83\U5df2\U7ecf\U4f7f\U7528\U7684\U83dc\U5355\U9879 \"%@\".";
+    "The key combination %@ can't be used!" = "\U7ec4\U5408\U952e %@ \U4e0d\U80fd\U7528\Uff01";
+    "Type shortcut" = "\U5feb\U6377\U952e\U7c7b\U578b";
+    "Use old shortcut" = "\U4f7f\U7528\U65e7\U7684\U5feb\U6377\U952e";
+}

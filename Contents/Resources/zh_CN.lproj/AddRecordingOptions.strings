@@ -1,0 +1,11 @@
+{
+    "20.ibShadowedToolTip" = "\U65b0\U5f55\U5236\U5c06\U6dfb\U52a0\U5230\U5f39\U51fa\U7a97\U53e3\U4e2d\U6240\U9009\U7684\U6587\U6863\U4e2d\U3002 \U65b0\U5f55\U5236\U5c06\U88ab\U6dfb\U52a0\U5230 \"\U6587\U6863\U5a92\U4f53\" \U9762\U677f\U4e2d, \U7136\U540e\U60a8\U9700\U8981\U5c06\U5176\U62d6\U62fd\U5230\U65f6\U95f4\U7ebf\U4e0a\U3002";
+    "20.title" = "\U6dfb\U52a0\U5230\U6587\U6863:";
+    "21.ibShadowedToolTip" = "\U4f7f\U7528\U521a\U521b\U5efa\U7684\U5f55\U5236\U521b\U5efa\U65b0\U6587\U6863\U3002";
+    "21.title" = "\U521b\U5efa\U65b0\U6587\U6863";
+    "22.title" = Radio;
+    "24.title" = OtherViews;
+    "25.title" = "Item 3";
+    "26.title" = "Item 2";
+    "27.title" = "\U672a\U547d\U540d";
+}

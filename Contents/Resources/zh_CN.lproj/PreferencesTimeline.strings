@@ -1,0 +1,29 @@
+{
+    "172.ibShadowedToolTip" = "\U5982\U679c\U9009\U4e2d\U6b64\U590d\U9009\U6846, \U5f53\U60a8\U5c06\U9f20\U6807\U6307\U9488\U60ac\U505c\U5728\U65f6\U95f4\U8f74\U4e2d\U7684\U526a\U8f91\U4e0a\U65f6, \"\U64cd\U4f5c\" \U83dc\U5355\U56fe\U6807\U5c06\U4e0d\U518d\U51fa\U73b0\U3002";
+    "173.title" = "\U9690\U85cf\U8986\U76d6\U5728\U526a\U8f91\U4e0a\U7684\U64cd\U4f5c\U83dc\U5355";
+    "176.ibShadowedToolTip" = "\U5982\U679c\U9009\U4e2d\U6b64\U590d\U9009\U6846, \U526a\U8f91\U97f3\U9891\U6ce2\U5f62\U53e0\U52a0\U5c06\U7ed8\U5236\U5de6\U53f3\U7acb\U4f53\U58f0\U901a\U9053.";
+    "177.title" = "\U663e\U793a\U7acb\U4f53\U58f0\U97f3\U9891\U6ce2\U5f62";
+    "18.ibShadowedToolTip" = "\U5728\U65f6\U95f4\U7ebf\U4e2d\U7528\U4e8e\U65b0\U8f68\U9053\U7684\U9ed8\U8ba4\U9ad8\U5ea6\U3002";
+    "20.title" = OtherViews;
+    "21.title" = "\U5c0f";
+    "22.title" = "\U6b63\U5e38";
+    "23.title" = "\U5927";
+    "24.title" = "\U9ed8\U8ba4\U8f68\U9053\U9ad8\U5ea6:";
+    "3.ibShadowedToolTip" = "\U5728\U65f6\U95f4\U7ebf\U4e2d\U521b\U5efa\U65b0\U8fc7\U6e21\U8f6c\U573a\U65f6\U8981\U4f7f\U7528\U7684\U9ed8\U8ba4\U8f6c\U573a\U3002";
+    "30.ibShadowedToolTip" = "\U5bf9\U663e\U793a\U65f6\U95f4\U7684\U6240\U6709\U4f4d\U7f6e\U4f7f\U7528 SMPTE \U683c\U5f0f\U7684\U65f6\U95f4\U7801";
+    "32.title" = "\U663e\U793a:";
+    "33.title" = "\U4f7f\U7528 SMPTE \U65f6\U95f4\U7801";
+    "5.title" = OtherViews;
+    "86.title" = "\U9ed8\U8ba4\U65f6\U957f:";
+    "9.title" = "\U9ed8\U8ba4\U8f6c\U573a:";
+    "92.headerCell.title" = "\U7c7b\U578b";
+    "93.headerCell.title" = "\U65f6\U957f";
+    "95.title" = "Text Cell";
+    "96.title" = "\U6587\U672c";
+    "S8o-gW-jAs.title" = "\U7f16\U8f91:";
+    "bRW-em-DAg.ibShadowedToolTip" = "\U65b0\U52a8\U4f5c\U7684\U9ed8\U8ba4\U66f2\U7ebf\U7c7b\U578b.";
+    "dOY-aV-xGx.title" = "\U9ed8\U8ba4\U52a8\U4f5c\U66f2\U7ebf:";
+    "vWj-vv-D6D.ibShadowedToolTip" = "\U5bf9\U663e\U793a\U65f6\U95f4\U7684\U6240\U6709\U4f4d\U7f6e\U4f7f\U7528 SMPTE \U683c\U5f0f\U7684\U65f6\U95f4\U7801";
+    "zPP-kT-3La.title" = "\U7c98\U8d34\U540e\U91cd\U65b0\U5b9a\U4f4d\U5237\U5b50";
+    "zeE-JG-Sj7.title" = OtherViews;
+}

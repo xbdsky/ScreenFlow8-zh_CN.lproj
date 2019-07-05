@@ -1,0 +1,33 @@
+{
+    "701.ibShadowedToolTip" = "\U4ee5\U50cf\U7d20\U8868\U793a\U7684\U6ce8\U91ca\U5916\U6846\U7684\U7c97\U7ec6.";
+    "705.title" = "\U7c97\U7ec6:";
+    "706.ibShadowedToolTip" = "\U4ee5\U50cf\U7d20\U8868\U793a\U7684\U6ce8\U91ca\U5916\U6846\U7684\U7c97\U7ec6.";
+    "707.placeholderString" = "0%;0%;-0%";
+    "707.title" = "10.0%";
+    "730.ibShadowedToolTip" = "\U8bbe\U7f6e\U5f53\U524d\U9009\U5b9a\U6ce8\U91ca\U7684\U989c\U8272\U3002";
+    "732.title" = "\U989c\U8272:";
+    "733.ibShadowedToolTip" = "\U9009\U5b9a\U6ce8\U91ca\U5e94\U7528\U7684\U6295\U5f71\U91cf";
+    "734.ibExternalAccessibilityHelp" = "\U6ce8\U8bb0\U653e\U5927";
+    "734.ibShadowedToolTip" = "\U9009\U5b9a\U6ce8\U91ca\U5e94\U7528\U7684\U6295\U5f71\U91cf";
+    "735.ibShadowedToolTip" = "\U5728\U9009\U5b9a\U7684\U6ce8\U91ca\U4e0a\U542f\U7528\U6295\U5f71.";
+    "736.title" = "\U9634\U5f71:";
+    "738.placeholderString" = "0%;0%;-0%";
+    "738.title" = 100;
+    "804.ibShadowedToolTip" = "\U542f\U7528\U56f4\U7ed5\U9009\U5b9a\U6ce8\U91ca\U7684\U5916\U6846.";
+    "805.title" = "\U5916\U6846:";
+    "807.ibShadowedToolTip" = "\U8bbe\U7f6e\U5916\U6846\U7684\U989c\U8272.";
+    "809.ibShadowedToolTip" = "\U8981\U5e94\U7528\U4e8e\U6240\U9009\U6ce8\U91ca\U7684\U5916\U6846\U5927\U5c0f\U3002";
+    "817.title" = "\U7aef\U70b9:";
+    "818.ibShadowedToolTip" = "\U6ce8\U91ca\U7684\U5f00\U59cb\U548c\U7ed3\U675f\U7684\U7ebf\U6761\U548c\U7bad\U5934\U5916\U89c2.";
+    "820.title" = OtherViews;
+    "824.ibShadowedToolTip" = "\U6ce8\U91ca\U7684\U5f00\U59cb\U548c\U7ed3\U675f\U7684\U7ebf\U6761\U548c\U7bad\U5934\U5916\U89c2.";
+    "826.title" = OtherViews;
+    "871.ibShadowedNoSelectionPlaceholder" = " ";
+    "873.ibShadowedNoSelectionPlaceholder" = " ";
+    "874.ibShadowedToolTip" = "\U53ef\U4ee5 \"\U770b\U900f\" \U6240\U9009\U6ce8\U91ca\U7684\U6bd4\U4f8b\U91cf(\U4e5f\U5c31\U662f\U900f\U660e\U5ea6).";
+    "876.ibShadowedToolTip" = "\U53ef\U4ee5 \"\U770b\U900f\" \U6240\U9009\U6ce8\U91ca\U7684\U6bd4\U4f8b\U91cf(\U4e5f\U5c31\U662f\U900f\U660e\U5ea6).";
+    "877.placeholderString" = "0%;0%;-0%";
+    "877.title" = "10.0%";
+    "878.title" = "\U4e0d\U900f\U660e\U5ea6:";
+    "886.ibShadowedNoSelectionPlaceholder" = " ";
+}

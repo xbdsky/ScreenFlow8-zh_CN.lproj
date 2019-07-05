@@ -1,0 +1,28 @@
+{
+    "Animate by line" = "\U7b14\U753b\U7ebf\U6761\U52a8\U753b";
+    Bounce = "\U5f39\U8df3";
+    "Break Apart" = "\U5206\U79bb";
+    Build = "\U521b\U5efa";
+    "Build Scale" = "\U521b\U5efa\U6bd4\U4f8b";
+    Center = "\U4e2d\U5fc3";
+    "Character Flip" = "\U5b57\U7b26\U53cd\U8f6c";
+    Direction = "\U65b9\U5411";
+    Distance = "\U8ddd\U79bb";
+    Easing = "\U677e\U5f00";
+    Elasticity = "\U5f39\U6027";
+    Fade = "\U6de1\U5165\U6de1\U51fa";
+    "Fade Characters" = "\U6de1\U5165\U6de1\U51fa\U7684\U5b57\U7b26";
+    Gravity = "\U91cd\U529b";
+    Mass = "\U8d28\U91cf";
+    "Max Distance" = "\U6700\U5927\U8ddd\U79bb";
+    "Max Scale" = "\U6700\U5927\U6bd4\U4f8b";
+    Move = "\U79fb\U52a8";
+    "Move into Place" = "\U79fb\U52a8\U5230\U6240\U9700\U4f4d\U7f6e";
+    Offset = "\U8865\U507f";
+    Overlap = "\U91cd\U53e0";
+    Scale = "\U6bd4\U4f8b";
+    Seed = "\U79cd\U5b50";
+    Strength = "\U5f3a\U5ea6";
+    Twists = "\U626d\U66f2";
+    Typewriter = "\U6253\U5b57\U673a";
+}

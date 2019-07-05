@@ -1,0 +1,14 @@
+{
+    Bandpass = "\U5e26\U901a\U6ee4\U6ce2";
+    Cathedral = "\U5927\U6559\U5802";
+    "Large Chamber" = "\U5927\U4f1a\U8bae\U5ba4";
+    "Large Hall" = "\U5927\U5385\U6df7\U54cd";
+    "Large Room" = "\U5927\U578b\U623f\U95f4";
+    "Medium Chamber" = "\U4e2d\U578b\U4f1a\U8bae\U5ba4";
+    "Medium Hall" = "\U4e2d\U578b\U97f3\U4e50\U5385";
+    "Medium Room" = "\U4e2d\U578b\U623f\U95f4";
+    Plate = "\U54cd\U677f";
+    Presence = "\U51fa\U5e2d";
+    "Small Room" = "\U5c0f\U578b\U623f\U95f4";
+    "Small Room With EQ" = "\U60c5\U8da3\U5c0f\U5c4b";
+}

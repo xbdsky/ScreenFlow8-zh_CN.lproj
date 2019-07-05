@@ -1,0 +1,10 @@
+{
+    "iOS Touch: 90\U00b0 Rotation" = "iOS \U89e6\U6478: 90\U00b0 \U65cb\U8f6c";
+    "iOS Touch: Single Tap" = "iOS \U89e6\U6478: \U5355\U51fb";
+    "iOS Touch: Swipe Left" = "iOS \U89e6\U6478: \U5de6\U6ed1";
+    "iOS Touch: Swipe Right" = "iOS \U89e6\U6478: \U53f3\U6ed1";
+    "iOS Touch: Zoom In" = "iOS \U89e6\U6478: \U653e\U5927";
+    "iOS Touch: Zoom Out" = "iOS \U89e6\U6478: \U7f29\U5c0f";
+    "iPad: 4-Finger Swipe Left" = "iPad: 4\U6307\U5de6\U6ed1";
+    "iPad: 4-Finger Swipe Right" = "iPad: 4\U6307\U53f3\U6ed1";
+}

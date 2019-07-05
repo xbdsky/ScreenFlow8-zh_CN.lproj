@@ -1,0 +1,35 @@
+{
+    "27.title" = "\U5b57\U4f53:";
+    "321.ibShadowedToolTip" = "\U9009\U62e9\U5b57\U4f53\U96c6\U3002";
+    "323.title" = OtherViews;
+    "324.title" = "<DONT LOCALIZE>";
+    "388.ibShadowedToolTip" = "\U8bbe\U7f6e\U8f6e\U5ed3\U7ebf\U7684\U989c\U8272";
+    "409.ibShadowedToolTip" = "\U8bbe\U7f6e\U8981\U586b\U5145\U5b57\U4f53\U7684\U5f62\U5f0f\U3002";
+    "410.title" = "\U586b\U5145:";
+    "418.ibShadowedToolTip" = "\U9009\U62e9\U5b57\U4f53\U586b\U5145\U6837\U5f0f\U3002";
+    "420.title" = OtherViews;
+    "421.title" = "\U6e10\U53d8";
+    "422.title" = "\U56fe\U50cf";
+    "423.title" = "\U5355\U8272";
+    "427.ibShadowedToolTip" = "\U8bbe\U7f6e\U8f6e\U5ed3\U7684\U539a\U5ea6\U3002";
+    "429.ibShadowedToolTip" = "\U8bbe\U7f6e\U8f6e\U5ed3\U7684\U539a\U5ea6\U3002";
+    "43.title" = "\U5927\U5c0f:";
+    "430.title" = "100.0%";
+    "436.ibShadowedToolTip" = "\U5c06\U5b57\U4f53\U7684\U8fb9\U7f18\U8bbe\U7f6e\U4e3a\U8f6e\U5ed3";
+    "437.title" = "\U8f6e\U5ed3:";
+    "457.ibShadowedToolTip" = "\U8bbe\U7f6e\U5b57\U4f53\U586b\U5145\U989c\U8272\U3002";
+    "551.ibShadowedToolTip" = "\U8bbe\U7f6e\U5b57\U4f53\U5927\U5c0f\U3002";
+    "553.title" = OtherViews;
+    "554.title" = "\U5b57\U4f53\U9762\U677f...";
+    "556.title" = "<<DO NOT LOCALIZE>>";
+    "566.title" = "\U5bf9\U9f50:";
+    "568.ibShadowedToolTips[0]" = "\U9760\U5de6";
+    "568.ibShadowedToolTips[1]" = "\U5c45\U4e2d";
+    "568.ibShadowedToolTips[2]" = "\U9760\U53f3";
+    "666.title" = "\U9009\U62e9...";
+    "705.ibShadowedToolTips[0]" = "\U5c06\U5b57\U4f53\U6837\U5f0f\U8bbe\U7f6e\U4e3a\U7c97\U4f53\U3002";
+    "705.ibShadowedToolTips[1]" = "\U5c06\U5b57\U4f53\U6837\U5f0f\U8bbe\U7f6e\U4e3a\U659c\U4f53\U3002";
+    "713.ibShadowedNotApplicablePlaceholder" = " ";
+    "RKt-aI-RND.title" = "\U9879\U76ee\U7b26\U53f7:";
+    "pCL-Hm-pEn.title" = "\U5b57\U8ddd:";
+}

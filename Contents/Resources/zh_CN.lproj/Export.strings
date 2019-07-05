@@ -1,0 +1,26 @@
+{
+    "Creates a 30 fps ProRes 422 HQ movie with stereo 48khz AAC." = " \U4f7f\U7528 48khz AAC \U7acb\U4f53\U58f0\U521b\U5efa\U4e00\U4e2a30 \U5e27/\U79d2 (fps) \U7684 ProRes 422 HQ \U7f16\U7801\U7535\U5f71\U3002";
+    "Creates a encoded ProRes 422 movie with stereo PCM audio." = "\U4f7f\U7528 PCM \U7acb\U4f53\U58f0\U521b\U5efa\U4e00\U4e2a\U5177\U5907 ProRes 422 \U7f16\U7801\U7535\U5f71\U3002";
+    "Creates a losslessly encoded ProRes 4444 movie with a cleared alpha channel and stereo audio." = "\U4f7f\U7528\U6e05\U6670\U7684 alpha \U901a\U9053\U548c\U7acb\U4f53\U58f0\U97f3\U9891\U521b\U5efa\U4e00\U4e2a\U6709\U635f\U7f16\U7801\U7684 ProRes 4444 \U7535\U5f71\U3002";
+    "Creates a stereo 48khz compressed AAC m4a file at 256 kbits/sec" = "\U4ee5 256kbits/\U79d2 \U7684\U7801\U6d41\U521b\U5efa\U4e00\U4e2a 48khz \U7acb\U4f53\U58f0\U7684\U538b\U7f29\U7684 AAC m4a \U6587\U4ef6\U3002";
+    Lossless = "\U65e0\U635f";
+    "Lossless - Audio Only" = "\U65e0\U635f - \U4ec5\U97f3\U9891";
+    "NTSC DV" = "NTSC DV";
+    "PAL DV" = "PAL DV";
+    "Provides a full-quality lossless AIFF file." = "\U63d0\U4f9b\U4e00\U4e2a\U5b8c\U5168\U54c1\U8d28\U7684\U65e0\U635f AIFF \U6587\U4ef6\U3002";
+    "QuickTime will automatically select the best settings for Apple TV viewing." = "QuickTime \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 Apple TV \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "QuickTime will automatically select the best settings for iPad viewing." = "QuickTime \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 iPad \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "QuickTime will automatically select the best settings for iPhone viewing." = "QuickTime \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 iPhone \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "QuickTime will automatically select the best settings for iPod viewing." = "QuickTime \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 iPod \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "ScreenFlow will automatically select the best settings for Apple TV viewing." = "ScreenFlow  \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 Apple TV \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "ScreenFlow will automatically select the best settings for iPad viewing." = "ScreenFlow  \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 iPad \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "ScreenFlow will automatically select the best settings for iPhone viewing." = "ScreenFlow  \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 iPhone \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "ScreenFlow will automatically select the best settings for iPod viewing." = "ScreenFlow  \U4f1a\U81ea\U52a8\U9009\U62e9\U6700\U9002\U5408\U5728 iPod \U4e0a\U67e5\U770b\U7684\U8bbe\U7f6e\U3002";
+    "Web - High" = "\U7f51\U7edc - \U9ad8";
+    "Web - High (Multi-pass)" = "\U7f51\U7edc - \U9ad8\Uff08\U591a\U901a\U9053\Uff09";
+    "Web - Low" = "\U7f51\U7edc - \U4f4e";
+    "Web - Low (Multi-pass)" = "\U7f51\U7edc - \U4f4e\Uff08\U591a\U901a\U9053\Uff09";
+    "Windows Media" = "Windows Media";
+    iPad = iPad;
+    iPod = iPod;
+}
